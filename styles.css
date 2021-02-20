@@ -1,0 +1,200 @@
+/* General stuff */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: regular;
+    src: url(./fonts/regular.ttf);
+}
+
+@font-face {
+    font-family: heading;
+    src: url(./fonts/medium.ttf);
+}
+
+/* Header */
+
+.header-main-div {
+    position: fixed;
+    width: 100vw;
+    height: 9vh;
+    background-color: #F18786;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 2;
+    border-bottom: 3px solid black;
+}
+
+/* Footer */
+
+.footer-main-div {
+    width: 100vw;
+    height: 9vh;
+    background-color: #F18786;
+    border-top: 3px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-homepage {
+    font-family: heading;
+    font-size: 3vh;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+/* Content */
+
+.content-main-div {
+    position: absolute;
+    top: 9vh;
+    width: 100vw;
+    background-color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.min-height-div {
+    min-height: 82vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.min-height-lyrics-div {
+    min-height: 80vh;
+}
+
+.lyrics-main-div {
+    position: absolute;
+    top: 9vh;
+    width: 100vw;
+    height: 91vh;
+    overflow-y: scroll;
+    background-color: white;
+}
+
+.top-lyrics-div {
+    height: 55vh;
+    margin-top: 2vh;
+    margin-bottom: 2vh;
+    overflow-y: scroll;
+    border: 3px solid black;
+    border-radius: 5px;
+}
+
+.top-lyrics-heading {
+    color: black;
+    margin-top: 2vh;
+    font-family: heading;
+}
+
+.news-heading {
+    color: black;
+    font-family: heading;
+}
+
+.artist-lyrics-heading {
+    padding-left: 3vw;
+    margin-top: 2vh;
+    font-family: heading;
+}
+
+.song-lyrics-heading {
+    padding-left: 3vw;
+    margin-top: 1vh;
+    margin-bottom: 1vh;
+    font-family: heading;
+    color: #F18786;
+}
+
+.song-lyrics-div {
+    padding-left: 3vw;
+    padding-right: 3vw;
+    line-height: 3.5vh;
+    margin-bottom: 2vh;
+    font-family: heading;
+    font-size: 2vh;
+}
+
+.top-p {
+    margin-top: 1vh;
+}
+
+.lyrics-search {
+    margin-top: 3vh;
+    border: 3px solid black;
+    width: 80vw;
+    height: 3.5vh;
+    border-radius: 5px;
+    padding-left: 1vw;
+    font-family: heading;
+    font-size: 2vh;
+    outline: none;
+}
+
+/* Lyrics Container */
+
+.lyrics-container {
+    width: 90vw;
+    height: 9vh;
+    background-color: #F18786;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid white;
+    font-family: heading;
+    color: black;
+    text-decoration: none;
+}
+
+.image-div {
+    width: 23vw;
+    height: 9vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.song-div {
+    width: 60vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.song-heading {
+    font-size: 2vh;
+}
+
+.all-artists {
+    text-decoration: underline;
+    font-family: regular;
+    font-size: 3vh;
+    margin-bottom: 2vh;
+    cursor: pointer;
+    color: black;
+}
+
+.letter-artists {
+    text-decoration: underline;
+    font-family: regular;
+    font-size: 3vh;
+    margin-bottom: 2vh;
+    cursor: pointer;
+    margin-top: 2vh;
+    color: black;
+}
+
+.three-letters {
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
