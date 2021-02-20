@@ -20,7 +20,7 @@ const Name = () => {
         //console.log(url)
 
         data.map(d => {
-            if (url === ("https://colden-lyrics.vercel.app/artist/" + d.artist.replaceAll(" ", "-"))) {
+            if (url === ("https://coldenlyrics.com/artist/" + d.artist.replaceAll(" ", "-"))) {
                 setArtistName(d.artist)
                 songs.push({"song": d.song, "artist": d.artist, "link": d.link})
             }

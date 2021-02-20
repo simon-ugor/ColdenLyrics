@@ -17,7 +17,7 @@ const Lyrics = () => {
     useEffect(() => {
         let url = window.location.href
         data.map(d => {
-            if (("https://colden-lyrics.vercel.app/" + d.link) === url) {
+            if (("https://coldenlyrics.com/" + d.link) === url) {
                 setDisplay([{"artist": d.artist, "song": d.song, "lyrics": d.lyrics, "snippet": d.snippet}])
             }
         })
