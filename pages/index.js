@@ -7,7 +7,21 @@ import Link from "next/link"
 
 import lyricsData from "../data/data.js"
 
+import { useRouter } from "next/router"
+import { useEffect } from "react"
+
 const index = () => {
+
+    const router = useRouter()
+
+    useEffect(() => {
+
+        let url = window.location.href
+        if (url === "https://www.coldenlyrics.com/") {
+            router.push("https://coldenlyrics.com/")
+        }
+        
+    }, [])
 
     const data = lyricsData.map(d => {
         if (d.top === true) {
