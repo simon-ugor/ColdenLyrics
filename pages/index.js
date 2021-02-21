@@ -30,7 +30,7 @@ const index = () => {
     })
 
     const [search, setSearch] = useState("")
-    const [searchDiv, setSearchDiv] = useState("")
+    const [searchDiv, setSearchDiv] = useState("none")
 
     const handleSearch = (e) => {
 
