@@ -4,7 +4,7 @@ import Link from "next/link"
 const NewsContainer = (props) => {
 
     return (
-        <Link href="/">
+        <Link href={props.link}>
             <a className="lyrics-container">
                 <div className="image-div">
                     <Image

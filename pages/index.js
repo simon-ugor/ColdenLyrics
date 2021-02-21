@@ -46,7 +46,7 @@ const index = () => {
                 </div>
                 <h1 className="news-heading">News</h1>
                 <div className="top-lyrics-div">
-                    <NewsContainer heading="Juice Wrld passed away" />
+                    <NewsContainer heading="6ix9ine released new track ZAZA" link="/news/6ix9ine-new-song-zaza" />
                 </div>
                 <Link href="all-artists"><a className="all-artists">All artists</a></Link>
                 <Footer />
