@@ -145,7 +145,7 @@
     font-family: heading;
     font-size: 2vh;
     outline: none;
-    text-align: center;
+    padding-left: 1vw;
 }
 
 /* Lyrics Container */
