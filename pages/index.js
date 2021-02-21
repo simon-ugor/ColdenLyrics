@@ -8,7 +8,7 @@ import Link from "next/link"
 import lyricsData from "../data/data.js"
 
 import { useRouter } from "next/router"
-import { useEffect } from "react"
+import { useEffect, useState } from "react"
 
 const index = () => {
 
@@ -29,6 +29,37 @@ const index = () => {
         }
     })
 
+    const [search, setSearch] = useState("")
+    const [searchDiv, setSearchDiv] = useState("")
+
+    const handleSearch = (e) => {
+
+        let searchedArtists = []
+
+        let uniqueArtists = []
+
+        let value = e.target.value
+
+        if (!value) {
+            setSearchDiv("none")
+        } else if (value) {
+            setSearchDiv("")
+        }
+
+        searchedArtists = lyricsData.filter(item => {
+            return item.artist.toLocaleLowerCase().includes(value.toLocaleLowerCase())
+        })
+        
+        searchedArtists.map(a => {
+            if (uniqueArtists.includes(a.artist) === false) {
+                uniqueArtists.push(a.artist)
+            }
+        })
+
+        setSearch(uniqueArtists)
+        
+    }
+
 
     return (
         <Layout>
@@ -37,7 +68,12 @@ const index = () => {
                 <meta name="description" content="Testing content meta desc" />
             </Head>
             <div className="content-main-div">
-                <input className="lyrics-search" placeholder="Search lyrics" type="text"></input>
+                <input className="lyrics-search" onChange={handleSearch} placeholder="Search artists" type="text"></input>
+                <div style={{display: searchDiv}} className="search-lyrics-div">
+                    {search.length > 0 && search.map(a => {
+                        return <LyricsContainer key={a} artistName="" songName={a} link={"/artist/" + a.replaceAll(" ", "-")} />
+                    })}
+                </div>
                 <h1 className="top-lyrics-heading" >Trending Lyrics</h1>
                 <div className="top-lyrics-div">
                     

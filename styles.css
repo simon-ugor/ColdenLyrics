@@ -87,6 +87,15 @@
     overflow-y: scroll;
     border: 3px solid black;
     border-radius: 5px;
+    min-width: 90vw; 
+}
+
+.search-lyrics-div {
+    height: 55vh;
+    overflow-y: scroll;
+    border: 3px solid black;
+    border-radius: 5px;
+    min-width: 90vw;
 }
 
 .top-lyrics-heading {
