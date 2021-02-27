@@ -10,6 +10,8 @@ import data from "../../data/data.js"
 const Lyrics = () => {
 
     const [display, setDisplay] = useState([])
+    const [artistName, setArtistName] = useState("")
+    const [songName, setSongName] = useState("")
 
     const router = useRouter()
     const { artist } = router.query
@@ -19,6 +21,8 @@ const Lyrics = () => {
         data.map(d => {
             if (("https://coldenlyrics.com/" + d.link) === url) {
                 setDisplay([{"artist": d.artist, "song": d.song, "lyrics": d.lyrics, "snippet": d.snippet}])
+                setArtistName(d.artist)
+                setSongName(d.song)
             }
         })
     }, [])
