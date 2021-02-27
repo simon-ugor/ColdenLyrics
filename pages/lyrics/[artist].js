@@ -35,6 +35,13 @@ const Lyrics = () => {
                     <h1 className="artist-lyrics-heading">{d.artist}</h1>
                     <h1 className="song-lyrics-heading">{d.song}</h1>
                     <div className="song-lyrics-div" dangerouslySetInnerHTML={{__html: d.lyrics}} />
+                    <h1 className="artist-lyrics-heading">Other songs by</h1>
+                    <h1 className="song-lyrics-heading">{artistName}</h1>
+                    <div className="song-lyrics-div">{data.map(x => {
+                        if (x.artist === artistName && x.song !== songName) {
+                            return (<p><a href={"https://coldenlyrics.com/" + x.link} style={{cursor: "pointer", textDecoration: "underline", color: "black"}}>{x.song}</a></p>)
+                        }
+                    })}</div>
                     </div>
                     <Footer />
                 </div>
