@@ -6,15 +6,19 @@ import Layout from "../../components/Layout.js"
 import Head from "next/head"
 
 import data from "../../data/data.js"
+import songInfo from "../../data/song-info.js"
 
 const Lyrics = () => {
 
     const [display, setDisplay] = useState([])
     const [artistName, setArtistName] = useState("")
     const [songName, setSongName] = useState("")
+    const [info, setInfo] = useState()
 
     const router = useRouter()
     const { artist } = router.query
+
+    const onlineLink = "https://coldenlyrics.com/"
     
     useEffect(() => {
         let url = window.location.href
@@ -25,6 +29,14 @@ const Lyrics = () => {
                 setSongName(d.song)
             }
         })
+
+        songInfo.map(i => {
+            if(("https://coldenlyrics.com/lyrics/" + i.artist.replaceAll(" ", "-").toLowerCase() + "-" + i.songname.replaceAll(" ", "-").toLowerCase()) === url) {
+                setInfo(<div><h1 style={{color: "black"}} className="song-lyrics-heading">Song info</h1><div className="song-lyrics-div"><p>Produced by: {i.producedby}</p><p>Album: {i.album}</p></div></div>)
+            }
+        })
+
+
     }, [])
 
     const toDisplay = display.map(d => {
@@ -39,6 +51,7 @@ const Lyrics = () => {
                     <h1 className="artist-lyrics-heading">{d.artist}</h1>
                     <h1 className="song-lyrics-heading">{d.song}</h1>
                     <div className="song-lyrics-div" dangerouslySetInnerHTML={{__html: d.lyrics}} />
+                    {info}
                     <h1 className="artist-lyrics-heading">Other songs by</h1>
                     <h1 className="song-lyrics-heading">{artistName}</h1>
                     <div className="song-lyrics-div">{data.map(x => {
