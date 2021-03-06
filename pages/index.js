@@ -65,7 +65,7 @@ const index = () => {
         <Layout>
             <Head>
                 <title>ColdenLyrics</title>
-                <meta name="description" content="Testing content meta desc" />
+                <meta name="description" content="Colden Lyrics is a web page where you can find lyrics of your favorite songs. See our trending lyrics, search lyrics by artist or read fresh music industry news." />
             </Head>
             <div className="content-main-div">
                 <input className="lyrics-search" onChange={handleSearch} placeholder="Search artists" type="text"></input>
