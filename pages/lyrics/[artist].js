@@ -19,11 +19,12 @@ const Lyrics = () => {
     const { artist } = router.query
 
     const onlineLink = "https://coldenlyrics.com/"
+    const localHost = "http://localhost:3000/"
     
     useEffect(() => {
         let url = window.location.href
         data.map(d => {
-            if (("https://coldenlyrics.com/" + d.link) === url) {
+            if (("http://localhost:3000/" + d.link) === url) {
                 setDisplay([{"artist": d.artist, "song": d.song, "lyrics": d.lyrics, "snippet": d.snippet}])
                 setArtistName(d.artist)
                 setSongName(d.song)
@@ -31,8 +32,8 @@ const Lyrics = () => {
         })
 
         songInfo.map(i => {
-            if(("https://coldenlyrics.com/lyrics/" + i.artist.replaceAll(" ", "-").toLowerCase() + "-" + i.songname.replaceAll(" ", "-").toLowerCase()) === url) {
-                setInfo(<div><h1 style={{color: "black"}} className="song-lyrics-heading">Song info</h1><div className="song-lyrics-div"><p>Produced by: {i.producedby}</p><p>Album: {i.album}</p></div></div>)
+            if(("http://localhost:3000/lyrics/" + i.artist.replaceAll(" ", "-").toLowerCase() + "-" + i.songname.replaceAll(" ", "-").toLowerCase()) === url) {
+                setInfo(<div><h1 style={{color: "black"}} className="song-lyrics-heading">Song info</h1><div className="song-lyrics-div"><p>Artist: {i.artist}</p><p>Song: {i.songname}</p><p>Produced by: {i.producedby}</p><p>Album: {i.album}</p></div></div>)
             }
         })
 
