@@ -6,6 +6,12 @@ const songInfo = [
 	"album": "Luv is Rage 2"
 },
 {
+	"artist": "Juice WRLD",
+	"songname": "Make Believe",
+	"producedby": "Tone Jones & Jahaan Sweet",
+	"album": "Death Race for Love"	
+},
+{
 	"artist": "A2H",
 	"songname": "Une dernière fois",
 	"producedby": "DJ Weedim",

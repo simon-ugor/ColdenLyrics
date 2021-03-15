@@ -7,6 +7,7 @@ import Head from "next/head"
 
 import data from "../../data/data.js"
 import songInfo from "../../data/song-info.js"
+import artistInfo from "../../data/artist-info.js"
 
 const Lyrics = () => {
 
@@ -14,6 +15,7 @@ const Lyrics = () => {
     const [artistName, setArtistName] = useState("")
     const [songName, setSongName] = useState("")
     const [info, setInfo] = useState()
+    const [about, setAbout] = useState()
 
     const router = useRouter()
     const { artist } = router.query
@@ -37,6 +39,16 @@ const Lyrics = () => {
             }
         })
 
+        songInfo.map(i => {
+            if(("http://localhost:3000/lyrics/" + i.artist.replaceAll(" ", "-").toLowerCase() + "-" + i.songname.replaceAll(" ", "-").toLowerCase()) === url) {
+                artistInfo.map(a => {
+                    if (a.artist.toLowerCase() === i.artist.toLowerCase()) {
+                        setAbout(<div><h1 className="artist-lyrics-heading">About</h1><h1 className="song-lyrics-heading">{a.artist}</h1><div className="song-lyrics-div"><p>{a.about}</p></div></div>)
+                    }
+                })
+            }
+        })
+
 
     }, [])
 
@@ -53,6 +65,7 @@ const Lyrics = () => {
                     <h1 className="song-lyrics-heading">{d.song}</h1>
                     <div className="song-lyrics-div" dangerouslySetInnerHTML={{__html: d.lyrics}} />
                     {info}
+                    {about}
                     <h1 className="artist-lyrics-heading">Other songs by</h1>
                     <h1 className="song-lyrics-heading">{artistName}</h1>
                     <div className="song-lyrics-div">{data.map(x => {
