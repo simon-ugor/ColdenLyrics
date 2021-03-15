@@ -41,8 +41,10 @@ const Lyrics = () => {
 
         songInfo.map(i => {
             if(("http://localhost:3000/lyrics/" + i.artist.replaceAll(" ", "-").toLowerCase() + "-" + i.songname.replaceAll(" ", "-").toLowerCase()) === url) {
+                console.log(i.artist.toLowerCase())
                 artistInfo.map(a => {
                     if (a.artist.toLowerCase() === i.artist.toLowerCase()) {
+                        console.log("i got here")
                         setAbout(<div><h1 className="artist-lyrics-heading">About</h1><h1 className="song-lyrics-heading">{a.artist}</h1><div className="song-lyrics-div"><p>{a.about}</p></div></div>)
                     }
                 })
