@@ -25,8 +25,10 @@ const Lyrics = () => {
     
     useEffect(() => {
         let url = window.location.href
+        let artist;
         data.map(d => {
             if (("https://coldenlyrics.com/" + d.link) === url) {
+                artist = d.artist
                 setDisplay([{"artist": d.artist, "song": d.song, "lyrics": d.lyrics, "snippet": d.snippet}])
                 setArtistName(d.artist)
                 setSongName(d.song)
@@ -36,6 +38,12 @@ const Lyrics = () => {
         songInfo.map(i => {
             if(("https://coldenlyrics.com/lyrics/" + i.artist.replaceAll(" ", "-").toLowerCase() + "-" + i.songname.replaceAll(" ", "-").toLowerCase()) === url) {
                 setInfo(<div><h1 style={{color: "black"}} className="song-lyrics-heading">Song info</h1><div className="song-lyrics-div"><p>Artist: {i.artist}</p><p>Song: {i.songname}</p><p>Produced by: {i.producedby}</p><p>Album: {i.album}</p></div></div>)
+            }
+        })
+
+        artistInfo.map(a => {
+            if (artist.toLowerCase() === a.artist.toLowerCase()) {
+                setAbout(<div><h1 className="artist-lyrics-heading">About</h1><h1 className="song-lyrics-heading">{a.artist}</h1><div className="song-lyrics-div"><p>{a.about}</p></div></div>)
             }
         })
 
