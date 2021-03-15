@@ -40,7 +40,7 @@ const Lyrics = () => {
         })
 
         songInfo.map(i => {
-            if(("http://localhost:3000/lyrics/" + i.artist.replaceAll(" ", "-").toLowerCase() + "-" + i.songname.replaceAll(" ", "-").toLowerCase()) === url) {
+            if(("https://coldenlyrics.com/lyrics/" + i.artist.replaceAll(" ", "-").toLowerCase() + "-" + i.songname.replaceAll(" ", "-").toLowerCase()) === url) {
                 console.log(i.artist.toLowerCase())
                 artistInfo.map(a => {
                     if (a.artist.toLowerCase() === i.artist.toLowerCase()) {
