@@ -14,7 +14,15 @@ const artistInfo = [
     {
         "artist": "Adrianne Lenker",
         "about": "Adrianne Elizabeth Lenker (born July 9, 1991) is an American musician from Indianapolis, Indiana, best known as the lead vocalist and guitarist of Big Thief. In 2006, when Lenker was 15, she released her first solo album titled Stages of the Sun. In 2014, she released her second solo album titled Hours Were the Birds. Lenker also released two EPs with future bandmate Buck Meek, a-sides and b-sides. In 2015, Lenker formed the band Big Thief after meeting Meek the first day she moved to New York. Lenker released her third solo album, abysskiss, on October 5, 2018."
-    }
+    },
+    {
+        "artist": "Akon",
+        "about": "Akon (born Aliaume Akon Thiam), is a Senegalese-American Grammy-nominated and platinum-selling rapper, songwriter, singer and businessman. His trademark is singing the word ‘convict’ at the beginning of most of his songs."
+    },
+    {
+        "artist": "Aha Gazelle",
+        "about": "William Gazelle Fields Jr., better known under the stage name Aha Gazelle (also Aha), was born on September 25, 1993. He is an American hip-hop recording artist, singer, songwriter and record producer from New Orleans, Louisiana. At an early age, Aha showed an interest in music, playing the trombone in middle school, and playing the drums by the age of 13 at his father’s church. Aha began experimenting with music production at 14 years old. By 15, he released his first self-produced mixtape."
+    },
 ]
 
 export default artistInfo
