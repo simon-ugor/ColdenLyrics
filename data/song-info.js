@@ -3779,6 +3779,6222 @@ const songInfo = [
 	"producedby": "Wendigo",
 	"album": "-"
 },
+{
+	"artist": "Albatraoz",
+	"songname": "Trodde han va gay",
+	"producedby": "Albatraoz",
+	"album": "-"
+},
+{
+	"artist": "Albatraoz",
+	"songname": "Mera E",
+	"producedby": "Eddie Jonsson",
+	"album": "-"
+},
+{
+	"artist": "AlbertNBN",
+	"songname": "M6",
+	"producedby": "Bossanova",
+	"album": "-"
+},
+{
+	"artist": "AlbertNBN",
+	"songname": "BETO",
+	"producedby": "Lucky Keys",
+	"album": "-"
+},
+{
+	"artist": "AlbertNBN",
+	"songname": "Zoro",
+	"producedby": "NXRTH ROAD",
+	"album": "-"
+},
+{
+	"artist": "AlbertNBN",
+	"songname": "Riri",
+	"producedby": "RunWay Star",
+	"album": "-"
+},
+{
+	"artist": "AlbertNBN",
+	"songname": "SMARDOI",
+	"producedby": "Bogdan Gridan",
+	"album": "-"
+},
+{
+	"artist": "Alberto Grasu",
+	"songname": "Micunealta (Freestyle)",
+	"producedby": "Klimonglue",
+	"album": "-"
+},
+{
+	"artist": "Lil Cagula",
+	"songname": "Nurofenul",
+	"producedby": "TREETIME",
+	"album": "-"
+},
+{
+	"artist": "Alberto Grasu",
+	"songname": "Superstar",
+	"producedby": "Jack Marlow",
+	"album": "-"
+},
+{
+	"artist": "Alberto Grasu",
+	"songname": "6 6",
+	"producedby": "Mvrcubeats",
+	"album": "-"
+},
+{
+	"artist": "Alberto Grasu",
+	"songname": "Unboxing",
+	"producedby": "Klimonglue",
+	"album": "-"
+},
+{
+	"artist": "Alberto Grasu",
+	"songname": "Aoleu",
+	"producedby": "Klimonglue",
+	"album": "-"
+},
+{
+	"artist": "Alberto Grasu",
+	"songname": "Ma Rasfata",
+	"producedby": "RolandJoeC",
+	"album": "-"
+},
+{
+	"artist": "Malik Montana",
+	"songname": "Rundki",
+	"producedby": "Oil Beatz",
+	"album": "-"
+},
+{
+	"artist": "Albino",
+	"songname": "Rat I Mir",
+	"producedby": "3 Points",
+	"album": "-"
+},
+{
+	"artist": "Albino",
+	"songname": "Kutija cigara",
+	"producedby": "Nina Todorovic",
+	"album": "-"
+},
+{
+	"artist": "Albino",
+	"songname": "15",
+	"producedby": "Oux",
+	"album": "-"
+},
+{
+	"artist": "Albino",
+	"songname": "Nocas",
+	"producedby": "Albino",
+	"album": "-"
+},
+{
+	"artist": "Albino",
+	"songname": "Glas u galami",
+	"producedby": "Albino",
+	"album": "-"
+},
+{
+	"artist": "Pikers x MFC",
+	"songname": "Bletka",
+	"producedby": "JP Soundz",
+	"album": "20018 MIXTAPE"
+},
+{
+	"artist": "Albino",
+	"songname": "Makadam",
+	"producedby": "Albino",
+	"album": "-"
+},
+{
+	"artist": "DIHO",
+	"songname": "Co Chcecie",
+	"producedby": "Albino (PL)",
+	"album": "Orangutan vol. 07"
+},
+{
+	"artist": "Wiz Khalifa",
+	"songname": "Still Blazin",
+	"producedby": "Sermstyle",
+	"album": "Kush & Orange Juice"
+},
+{
+	"artist": "Alborosie",
+	"songname": "Kingston Town",
+	"producedby": "Alborosie",
+	"album": "Soul Pirate"
+},
+{
+	"artist": "Alborosie",
+	"songname": "Herbalist",
+	"producedby": "Alborosie",
+	"album": "Soul Pirate"
+},
+{
+	"artist": "Caparezza",
+	"songname": "Legalize The Premier",
+	"producedby": "Carlo Ubaldo Rossi",
+	"album": "Il Sogno Eretico"
+},
+{
+	"artist": "Alborosie",
+	"songname": "Still Blazing",
+	"producedby": "Alborosie",
+	"album": "Soul Pirate"
+},
+{
+	"artist": "Alborosie",
+	"songname": "Poser",
+	"producedby": "Merrick Shaw",
+	"album": "Freedom & Fyah"
+},
+{
+	"artist": "Alborosie",
+	"songname": "Police",
+	"producedby": "Alborosie",
+	"album": "Soul Pirate"
+},
+{
+	"artist": "Alcest",
+	"songname": "Sapphire",
+	"producedby": "Benoît Roux",
+	"album": "Spiritual Instinct"
+},
+{
+	"artist": "Alcest",
+	"songname": "Kodama",
+	"producedby": "Alcest",
+	"album": "Kodama"
+},
+{
+	"artist": "Alcest",
+	"songname": "Autre Temps",
+	"producedby": "Martin Koller",
+	"album": "Les Voyages de l’Âme"
+},
+{
+	"artist": "Alcest",
+	"songname": "Eclosion",
+	"producedby": "Alcest",
+	"album": "Kodama"
+},
+{
+	"artist": "Alcest",
+	"songname": "Protection",
+	"producedby": "Benoît Roux",
+	"album": "Spiritual Instinct"
+},
+{
+	"artist": "Alcest",
+	"songname": "Oiseaux de proie",
+	"producedby": "Alcest, Benoît Roux",
+	"album": "Kodama"
+},
+{
+	"artist": "Alcest",
+	"songname": "Les jardins de minuit",
+	"producedby": "Benoît Roux",
+	"album": "Spiritual Instinct"
+},
+{
+	"artist": "Kendrick Lamar",
+	"songname": "The Heart Part 4",
+	"producedby": "Axl Folie",
+	"album": "-"
+},
+{
+	"artist": "ScHoolboy Q",
+	"songname": "Break the Bank",
+	"producedby": "The Alchemist",
+	"album": "Oxymoron"
+},
+{
+	"artist": "Mac Miller",
+	"songname": "Red Dot Music",
+	"producedby": "The Alchemist",
+	"album": "Watching Movies with the Sound Off"
+},
+{
+	"artist": "Eminem",
+	"songname": "Stepdad",
+	"producedby": "Luis Resto",
+	"album": "Music to Be Murdered By"
+},
+{
+	"artist": "Jay Electronica",
+	"songname": "The Neverending Story",
+	"producedby": "The Alchemist",
+	"album": "A Written Testimony"
+},
+{
+	"artist": "Earl Sweatshirt",
+	"songname": "Uncle Al",
+	"producedby": "The Alchemist",
+	"album": "Doris"
+},
+{
+	"artist": "Alcolirykoz",
+	"songname": "Normal",
+	"producedby": "El Arkeólogo",
+	"album": "Servicios AmbulatorioZ"
+},
+{
+	"artist": "Alcolirykoz",
+	"songname": "Tararea",
+	"producedby": "El Arkeólogo",
+	"album": "Servicios AmbulatorioZ"
+},
+{
+	"artist": "Alcolirykoz",
+	"songname": "Comediantes de Velorio",
+	"producedby": "El Arkeólogo",
+	"album": "La Revancha De Los Tímidos"
+},
+{
+	"artist": "Alcool Club",
+	"songname": "Drunk",
+	"producedby": "Praso",
+	"album": "Artesanacto"
+},
+{
+	"artist": "Alcool Club",
+	"songname": "Atlantis",
+	"producedby": "Praso",
+	"album": "Club120º"
+},
+{
+	"artist": "Alcool Club",
+	"songname": "Nasty Girl",
+	"producedby": "Praso",
+	"album": "Artesanacto"
+},
+{
+	"artist": "Alcool Club",
+	"songname": "Virus",
+	"producedby": "Praso",
+	"album": "Rap Proibido"
+},
+{
+	"artist": "Alcool Club",
+	"songname": "Meus Direitos",
+	"producedby": "Praso",
+	"album": "Club120º"
+},
+{
+	"artist": "Alcool Club",
+	"songname": "Honesto",
+	"producedby": "Flavio B",
+	"album": "Rap Proibido"
+},
+{
+	"artist": "aldn",
+	"songname": "glittr",
+	"producedby": "aldn",
+	"album": "-"
+},
+{
+	"artist": "aldn",
+	"songname": "Redeyes",
+	"producedby": "aldn",
+	"album": "-"
+},
+{
+	"artist": "aldn",
+	"songname": "precious",
+	"producedby": "aldn",
+	"album": "-"
+},
+{
+	"artist": "aldn",
+	"songname": "felt cute might delete",
+	"producedby": "aldn",
+	"album": "-"
+},
+{
+	"artist": "aldn",
+	"songname": "i always cared",
+	"producedby": "aldn",
+	"album": "-"
+},
+{
+	"artist": "aldn",
+	"songname": "ifls",
+	"producedby": "aldn",
+	"album": "-"
+},
+{
+	"artist": "aldn",
+	"songname": "So Easy",
+	"producedby": "aldn",
+	"album": "-"
+},
+{
+	"artist": "aldn",
+	"songname": "zombie",
+	"producedby": "aldn",
+	"album": "-"
+},
+{
+	"artist": "midwxst",
+	"songname": "Backseat",
+	"producedby": "aldn",
+	"album": "Secrets"
+},
+{
+	"artist": "Aldous Harding",
+	"songname": "The Barrel",
+	"producedby": "John Parish",
+	"album": "Designer (Japanese Version)"
+},
+{
+	"artist": "Aldous Harding",
+	"songname": "Imagining My Man",
+	"producedby": "John Parish",
+	"album": "Party"
+},
+{
+	"artist": "Aldous Harding",
+	"songname": "Horizon",
+	"producedby": "John Parish",
+	"album": "Party"
+},
+{
+	"artist": "Aldous Harding",
+	"songname": "Stop Your Tears",
+	"producedby": "Ben Edwards",
+	"album": "Aldous Harding"
+},
+{
+	"artist": "Aldous Harding",
+	"songname": "Blend",
+	"producedby": "Evie Mackay",
+	"album": "Party"
+},
+{
+	"artist": "Aldous Harding",
+	"songname": "Fixture Picture",
+	"producedby": "John Parish",
+	"album": "Designer (Japanese Version)"
+},
+{
+	"artist": "Aldous Harding",
+	"songname": "Zoo Eyes",
+	"producedby": "John Parish",
+	"album": "Designer (Japanese Version)"
+},
+{
+	"artist": "Marlon Williams",
+	"songname": "Nobody Gets What They Want Anymore",
+	"producedby": "Noah Georgeson",
+	"album": "Make Way For Love"
+},
+{
+	"artist": "Aldous Harding",
+	"songname": "Party",
+	"producedby": "John Parish",
+	"album": "Party"
+},
+{
+	"artist": "Aldous Harding",
+	"songname": "Designer",
+	"producedby": "John Parish",
+	"album": "Designer (Japanese Version)"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "Let Me Down Slowly",
+	"producedby": "Sir Nolan",
+	"album": "Narrated for You"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "Water Fountain",
+	"producedby": "Dan Wilson",
+	"album": "Narrated for You"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "Outrunning Karma",
+	"producedby": "Alec Benjamin",
+	"album": "Narrated for You"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "I Built a Friend",
+	"producedby": "Tiggs",
+	"album": "-"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "If We Have Each Other",
+	"producedby": "Alex Hope",
+	"album": "Narrated for You"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "Boy In The Bubble",
+	"producedby": "Jesse Shatkin",
+	"album": "Narrated for You"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "Mind is a Prison",
+	"producedby": "Alex Hope",
+	"album": "These Two Windows"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "If I Killed Someone For You",
+	"producedby": "Alex Hope",
+	"album": "Narrated for You"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "Pretending",
+	"producedby": "Alec Benjamin",
+	"album": "Unreleased songs"
+},
+{
+	"artist": "Alec Benjamin",
+	"songname": "Demons",
+	"producedby": "Charlie Handsome",
+	"album": "These Two Windows"
+},
+{
+	"artist": "Shakira",
+	"songname": "La Tortura",
+	"producedby": "Gocho",
+	"album": "Fijación Oral Vol. 1"
+},
+{
+	"artist": "Kidd Keo",
+	"songname": "Touchdown",
+	"producedby": "Retromoney",
+	"album": "-"
+},
+{
+	"artist": "Alemán",
+	"songname": "Tantas Veces",
+	"producedby": "Fntxy",
+	"album": "Eclipse"
+},
+{
+	"artist": "Alemán",
+	"songname": "Pues Que Pues",
+	"producedby": "Amenaza MXM",
+	"album": "Rolemos Otro"
+},
+{
+	"artist": "Alemán",
+	"songname": "Humo en la Trampa",
+	"producedby": "Di$",
+	"album": "Humo en la Trampa"
+},
+{
+	"artist": "Alemán",
+	"songname": "La Playa",
+	"producedby": "Cozy Cuz",
+	"album": "Rolemos Otro"
+},
+{
+	"artist": "Alemán",
+	"songname": "Down With Me",
+	"producedby": "Cozy Cuz",
+	"album": "Eclipse"
+},
+{
+	"artist": "Alemán",
+	"songname": "Rolemos Otro",
+	"producedby": "Cozy Cuz",
+	"album": "Rolemos Otro"
+},
+{
+	"artist": "Alen Sakic",
+	"songname": "Odana",
+	"producedby": "Rasta",
+	"album": "Air Max Reggae"
+},
+{
+	"artist": "Alen Sakic",
+	"songname": "Zore Pijane",
+	"producedby": "Rasta",
+	"album": "Momentum"
+},
+{
+	"artist": "Alen Sakic",
+	"songname": "Zivot Da Stane Ne Sme",
+	"producedby": "DJ Link",
+	"album": "-"
+},
+{
+	"artist": "Alen Sakic",
+	"songname": "Reggae Muzika",
+	"producedby": "Rasta",
+	"album": "Air Max Reggae"
+},
+{
+	"artist": "Alen Sakic",
+	"songname": "Jamajka",
+	"producedby": "DJ Link",
+	"album": "Momentum"
+},
+{
+	"artist": "Alen Sakic",
+	"songname": "Zbogom",
+	"producedby": "Rasta",
+	"album": "Momentum"
+},
+{
+	"artist": "Bula Adriano",
+	"songname": "U Mom Kraju",
+	"producedby": "Rasta",
+	"album": "Air Max Reggae"
+},
+{
+	"artist": "Alen Sakic",
+	"songname": "Jugoslavija",
+	"producedby": "Vladimir Krkljuš",
+	"album": "Momentum"
+},
+{
+	"artist": "Alen Sakic",
+	"songname": "Nisi Ti Mala",
+	"producedby": "Alen Sakic",
+	"album": "Momentum"
+},
+{
+	"artist": "Alen Sakic",
+	"songname": "Zove Me Stalno",
+	"producedby": "Alen Sakic",
+	"album": "Momentum"
+},
+{
+	"artist": "Alesana",
+	"songname": "The Thespian",
+	"producedby": "Kris Crummett",
+	"album": "The Emptiness"
+},
+{
+	"artist": "Alesana",
+	"songname": "Apology",
+	"producedby": "Patrick Thompson",
+	"album": "Try This With Your Eyes Closed"
+},
+{
+	"artist": "Alesana",
+	"songname": "Curse of the Virgin Canvas",
+	"producedby": "Kris Crummett",
+	"album": "The Emptiness"
+},
+{
+	"artist": "Alesana",
+	"songname": "Congratulations, I Hate You",
+	"producedby": "Jamie King",
+	"album": "Try This With Your Eyes Closed"
+},
+{
+	"artist": "Alesana",
+	"songname": "The Artist",
+	"producedby": "Kris Crummett",
+	"album": "The Emptiness"
+},
+{
+	"artist": "Aleshen",
+	"songname": "Leje to do fanty",
+	"producedby": "Deco (PL)",
+	"album": "-"
+},
+{
+	"artist": "Aleshen",
+	"songname": "Wysoko",
+	"producedby": "BaHsick",
+	"album": "-"
+},
+{
+	"artist": "Aleshen",
+	"songname": "Deadline",
+	"producedby": "Fast Life Sharky",
+	"album": "GG TAPE VOL.1"
+},
+{
+	"artist": "Aleshen",
+	"songname": "Dungeon Freestyle",
+	"producedby": "BaHsick",
+	"album": "-"
+},
+{
+	"artist": "Aleshen",
+	"songname": "ASAP",
+	"producedby": "BaHsick",
+	"album": "-"
+},
+{
+	"artist": "Aleshen",
+	"songname": "Mango",
+	"producedby": "KaCeZet",
+	"album": "Spirited Away"
+},
+{
+	"artist": "Aleshen",
+	"songname": "tabaluga",
+	"producedby": "Ggwilly",
+	"album": "Spirited Away"
+},
+{
+	"artist": "Logic",
+	"songname": "1-800-273-8255",
+	"producedby": "6ix",
+	"album": "Everybody"
+},
+{
+	"artist": "Alessia Cara",
+	"songname": "Here",
+	"producedby": "Pop & Oak",
+	"album": "Know-It-All"
+},
+{
+	"artist": "Alessia Cara",
+	"songname": "Scars to Your Beautiful",
+	"producedby": "Pop & Oak",
+	"album": "Know-It-All"
+},
+{
+	"artist": "Alessia Cara",
+	"songname": "Wild Things",
+	"producedby": "Sebastian Kole",
+	"album": "Know-It-All"
+},
+{
+	"artist": "Alessia Cara",
+	"songname": "Out of Love",
+	"producedby": "Dean Reid",
+	"album": "The Pains of Growing"
+},
+{
+	"artist": "Alessia Cara",
+	"songname": "Seventeen",
+	"producedby": "Kuya Productions",
+	"album": "Know-It-All"
+},
+{
+	"artist": "Alessia Cara",
+	"songname": "River of Tears",
+	"producedby": "Sebastian Kole",
+	"album": "Know-It-All"
+},
+{
+	"artist": "Alessia Cara",
+	"songname": "Not Today",
+	"producedby": "Jon Levine",
+	"album": "The Pains of Growing"
+},
+{
+	"artist": "Rita Ora",
+	"songname": "Anywhere",
+	"producedby": "watt",
+	"album": "Phoenix"
+},
+{
+	"artist": "Alesso",
+	"songname": "REMEDY",
+	"producedby": "AFTERHRS",
+	"album": "Midnight Hour"
+},
+{
+	"artist": "Alesso",
+	"songname": "Midnight",
+	"producedby": "Alesso",
+	"album": "A2*"
+},
+{
+	"artist": "Alesso",
+	"songname": "Falling",
+	"producedby": "Dillon Francis",
+	"album": "-"
+},
+{
+	"artist": "Alesso",
+	"songname": "I Wanna Know",
+	"producedby": "Alesso",
+	"album": "The Annual 2017-Ministry Of Sound"
+},
+{
+	"artist": "Usher",
+	"songname": "Numb",
+	"producedby": "Steve Angello",
+	"album": "Looking 4 Myself"
+},
+{
+	"artist": "Alestorm",
+	"songname": "Fucked with an Anchor",
+	"producedby": "Lasse Lammert",
+	"album": "No Grave But the Sea"
+},
+{
+	"artist": "Alestorm",
+	"songname": "Mexico",
+	"producedby": "Lasse Lammert",
+	"album": "No Grave But the Sea"
+},
+{
+	"artist": "Alestorm",
+	"songname": "Alestorm",
+	"producedby": "Lasse Lammert",
+	"album": "No Grave But the Sea"
+},
+{
+	"artist": "Alestorm",
+	"songname": "Drink",
+	"producedby": "Lasse Lammert",
+	"album": "Sunset on the Golden Age"
+},
+{
+	"artist": "Alestorm",
+	"songname": "No Grave but the Sea",
+	"producedby": "Lasse Lammert",
+	"album": "No Grave But the Sea"
+},
+{
+	"artist": "Alestorm",
+	"songname": "Keelhauled",
+	"producedby": "Lasse Lammert",
+	"album": "Black Sails at Midnight"
+},
+{
+	"artist": "Alestorm",
+	"songname": "You Are a Pirate",
+	"producedby": "Lasse Lammert",
+	"album": "Back Through Time"
+},
+{
+	"artist": "Alestorm",
+	"songname": "Man the Pumps",
+	"producedby": "Lasse Lammert",
+	"album": "No Grave But the Sea"
+},
+{
+	"artist": "Feder",
+	"songname": "Lordly",
+	"producedby": "Feder",
+	"album": "-"
+},
+{
+	"artist": "Alex Aiono",
+	"songname": "Work the Middle",
+	"producedby": "D’Mile",
+	"album": "Tour Fanzine - EP"
+},
+{
+	"artist": "Alex Aiono",
+	"songname": "As You Need",
+	"producedby": "Alex Aiono",
+	"album": "-"
+},
+{
+	"artist": "Alex Aiono",
+	"songname": "Does It Feel Like Falling",
+	"producedby": "Joe London",
+	"album": "Tour Fanzine - EP"
+},
+{
+	"artist": "Alex Aiono",
+	"songname": "BEST SONGS OF 2016 MASHUP",
+	"producedby": "Alex Aiono",
+	"album": "Alex Aiono/William Singe/Conor Maynard Covers & Mashups"
+},
+{
+	"artist": "Alex Aiono",
+	"songname": "Does It Feel Like Falling",
+	"producedby": "Joe London",
+	"album": "Tour Fanzine - EP"
+},
+{
+	"artist": "Alexander 23",
+	"songname": "IDK You Yet",
+	"producedby": "Alexander 23",
+	"album": "Oh No, Not Again!"
+},
+{
+	"artist": "Alexander 23",
+	"songname": "High School",
+	"producedby": "Alexander 23",
+	"album": "I’m Sorry I Love You"
+},
+{
+	"artist": "Alexander 23",
+	"songname": "Dirty AF1s",
+	"producedby": "Alexander 23",
+	"album": "I’m Sorry I Love You"
+},
+{
+	"artist": "Alexander 23",
+	"songname": "Mars",
+	"producedby": "Alexander 23",
+	"album": "I’m Sorry I Love You"
+},
+{
+	"artist": "Alexander 23",
+	"songname": "Another Summer Night Without You",
+	"producedby": "Alexander 23",
+	"album": "13 Reasons Why (Season 3)"
+},
+{
+	"artist": "Alexander 23",
+	"songname": "See You Later",
+	"producedby": "Alexander 23",
+	"album": "I’m Sorry I Love You"
+},
+{
+	"artist": "Alexander 23",
+	"songname": "Brainstorm",
+	"producedby": "Alexander 23",
+	"album": "Oh No, Not Again!"
+},
+{
+	"artist": "AJ Mitchell",
+	"songname": "Move On",
+	"producedby": "Alexander 23",
+	"album": "Slow Dance - EP"
+},
+{
+	"artist": "Alexander 23",
+	"songname": "IDK You Yet",
+	"producedby": "Alexander 23",
+	"album": "Oh No, Not Again!"
+},
+{
+	"artist": "Cherrelle",
+	"songname": "Saturday Love",
+	"producedby": "Jimmy Jam & Terry Lewis",
+	"album": "High Priority"
+},
+{
+	"artist": "Westside Cast",
+	"songname": "You Think You Know Someone",
+	"producedby": "Shane McAnally",
+	"album": "Westside: The Music (Music from the Original Series)"
+},
+{
+	"artist": "Westside Cast",
+	"songname": "Champange High",
+	"producedby": "busbee",
+	"album": "Westside: The Music (Music from the Original Series)"
+},
+{
+	"artist": "Westside Cast",
+	"songname": "Sure As Hell Hope",
+	"producedby": "busbee",
+	"album": "Westside: The Music (Music from the Original Series)"
+},
+{
+	"artist": "Alexandra Savior",
+	"songname": "Girlie",
+	"producedby": "Alex Turner",
+	"album": "Belladonna of Sadness"
+},
+{
+	"artist": "Alexandra Savior",
+	"songname": "Shades",
+	"producedby": "Alex Turner",
+	"album": "Belladonna of Sadness"
+},
+{
+	"artist": "Alexandra Savior",
+	"songname": "Mirage",
+	"producedby": "Alex Turner",
+	"album": "Belladonna of Sadness"
+},
+{
+	"artist": "Alexandra Savior",
+	"songname": "Bones",
+	"producedby": "James Ford",
+	"album": "Belladonna of Sadness"
+},
+{
+	"artist": "Alexandra Savior",
+	"songname": "Cupid",
+	"producedby": "James Ford",
+	"album": "Belladonna of Sadness"
+},
+{
+	"artist": "Alexandra Savior",
+	"songname": "Risk",
+	"producedby": "Alex Turner",
+	"album": "True Detective (Music from the HBO Series)"
+},
+{
+	"artist": "Alexandra Savior",
+	"songname": "Vanishing Point",
+	"producedby": "James Ford",
+	"album": "Belladonna of Sadness"
+},
+{
+	"artist": "Alexandra Savior",
+	"songname": "Mystery Girl",
+	"producedby": "Alex Turner",
+	"album": "Belladonna of Sadness"
+},
+{
+	"artist": "Alexandra Savior",
+	"songname": "Audeline",
+	"producedby": "James Ford",
+	"album": "Belladonna of Sadness"
+},
+{
+	"artist": "Original Broadway Cast of Beetlejuice",
+	"songname": "Say My Name",
+	"producedby": "Matt Stine",
+	"album": "Beetlejuice (Original Broadway Cast Recording)"
+},
+{
+	"artist": "Original Broadway Cast of Beetlejuice",
+	"songname": "Creepy Old Guy",
+	"producedby": "Matt Stine, Alex Timbers, Eddie Perfect, and Kurt Deutsch",
+	"album": "Beetlejuice (Original Broadway Cast Recording)"
+},
+{
+	"artist": "Original Broadway Cast of Beetlejuice",
+	"songname": "That Beautiful Sound",
+	"producedby": "Matt Stine",
+	"album": "Beetlejuice (Original Broadway Cast Recording)"
+},
+{
+	"artist": "Original Broadway Cast of Beetlejuice",
+	"songname": "Fright of Their Lives",
+	"producedby": "Matt Stine, Alex Timbers, Eddie Perfect, and Kurt Deutsch",
+	"album": "Beetlejuice (Original Broadway Cast Recording)"
+},
+{
+	"artist": "Ryan Scott Oliver",
+	"songname": "The Ballad of Sara Berry",
+	"producedby": "Ryan Scott Oliver",
+	"album": "35MM: A Musical Exhibition"
+},
+{
+	"artist": "Kirin J Callinan",
+	"songname": "Big Enough",
+	"producedby": "Aaron Cupples",
+	"album": "Bravado"
+},
+{
+	"artist": "Alex Cameron",
+	"songname": "Candy May",
+	"producedby": "Jonathan Rado",
+	"album": "Forced Witness"
+},
+{
+	"artist": "Alex Cameron",
+	"songname": "Marlon Brando",
+	"producedby": "Jonathan Rado",
+	"album": "Forced Witness"
+},
+{
+	"artist": "Alex Cameron",
+	"songname": "Studmuffin96",
+	"producedby": "Jonathan Rado",
+	"album": "Forced Witness"
+},
+{
+	"artist": "Alex Cameron",
+	"songname": "Country Figs",
+	"producedby": "Jonathan Rado",
+	"album": "Forced Witness"
+},
+{
+	"artist": "Alex Cameron",
+	"songname": "Miami Memory",
+	"producedby": "Jonathan Rado",
+	"album": "Miami Memory"
+},
+{
+	"artist": "Alex Cameron",
+	"songname": "True Lies",
+	"producedby": "Jonathan Rado",
+	"album": "Forced Witness"
+},
+{
+	"artist": "Alex Ceesay",
+	"songname": "Himlens Grindar",
+	"producedby": "Alex Ceesay",
+	"album": "-"
+},
+{
+	"artist": "Alex Ceesay",
+	"songname": "Hela min klick",
+	"producedby": "Alex Ceesay",
+	"album": "Drömmar bakom galler - EP"
+},
+{
+	"artist": "Alex Ceesay",
+	"songname": "18 Till Life",
+	"producedby": "Cortés On The Beat",
+	"album": "18 Till Life"
+},
+{
+	"artist": "Alex Clare",
+	"songname": "Too Close",
+	"producedby": "Switch",
+	"album": "The Lateness of the Hour"
+},
+{
+	"artist": "Alex Clare",
+	"songname": "Tell Me What You Need",
+	"producedby": "Chris Hargreaves",
+	"album": "Tail of Lions"
+},
+{
+	"artist": "Rudimental",
+	"songname": "Not Giving In",
+	"producedby": "Mike Spencer",
+	"album": "Home"
+},
+{
+	"artist": "Don Diablo",
+	"songname": "Heaven To Me",
+	"producedby": "Don Diablo",
+	"album": "-"
+},
+{
+	"artist": "Rudimental",
+	"songname": "Give You Up",
+	"producedby": "Rudimental",
+	"album": "Home"
+},
+{
+	"artist": "Alex Clare",
+	"songname": "Treading Water",
+	"producedby": "Mike Spencer",
+	"album": "The Lateness of the Hour"
+},
+{
+	"artist": "Alex Clare",
+	"songname": "Get Real",
+	"producedby": "Chris Hargreaves",
+	"album": "Tail of Lions"
+},
+{
+	"artist": "Alex Blue",
+	"songname": "Lighthouse",
+	"producedby": "Alex Blue",
+	"album": "-"
+},
+{
+	"artist": "Kurt Hugo Schneider",
+	"songname": "Pass It On",
+	"producedby": "Kurt Hugo Schneider",
+	"album": "-"
+},
+{
+	"artist": "Tyler Ward",
+	"songname": "Falling",
+	"producedby": "Tyler Ward",
+	"album": "Honestly"
+},
+{
+	"artist": "Alex Blue",
+	"songname": "Simple Kind of Love",
+	"producedby": "Alex Blue",
+	"album": "In The Still & Homespun, Pt. II - EP"
+},
+{
+	"artist": "Alex Isley",
+	"songname": "Into Orbit",
+	"producedby": "Alex Isley",
+	"album": "The Love/Art Memoirs."
+},
+{
+	"artist": "Scarface",
+	"songname": "Mental Exorcism",
+	"producedby": "Amir Epstein",
+	"album": "Deeply Rooted"
+},
+{
+	"artist": "Alex Isley",
+	"songname": "LA BREA",
+	"producedby": "Alex Isley",
+	"album": "-"
+},
+{
+	"artist": "Alexisonfire",
+	"songname": "This Could Be Anywhere In the World",
+	"producedby": "Alexisonfire",
+	"album": "Crisis"
+},
+{
+	"artist": "Alexisonfire",
+	"songname": "Rough Hands",
+	"producedby": "Julius Butty",
+	"album": "Crisis"
+},
+{
+	"artist": "Alexisonfire",
+	"songname": "Boiled Frogs",
+	"producedby": "Julius Butty",
+	"album": "Crisis"
+},
+{
+	"artist": "Alexisonfire",
+	"songname": "Young Cardinals",
+	"producedby": "Alexisonfire",
+	"album": "Old Crows / Young Cardinals"
+},
+{
+	"artist": "Alexisonfire",
+	"songname": "To A Friend",
+	"producedby": "Julius Butty",
+	"album": "Crisis"
+},
+{
+	"artist": "Alexisonfire",
+	"songname": "Pulmonary Archery",
+	"producedby": "Greg Below",
+	"album": "Alexisonfire"
+},
+{
+	"artist": "Alexisonfire",
+	"songname": "Happiness By The Kilowatt",
+	"producedby": "Julius Butty",
+	"album": "Watch Out"
+},
+{
+	"artist": "Alexisonfire",
+	"songname": "Familiar Drugs",
+	"producedby": "Alexisonfire",
+	"album": "-"
+},
+{
+	"artist": "Alex Rose",
+	"songname": "Toda 2",
+	"producedby": "D-Note “The Beatllionare”",
+	"album": "-"
+},
+{
+	"artist": "Alex Rose",
+	"songname": "Sigues Preguntando",
+	"producedby": "D-Note “The Beatllionare”",
+	"album": "Sexflix - EP"
+},
+{
+	"artist": "Alex Rose",
+	"songname": "Yo Quisiera",
+	"producedby": "D-Note “The Beatllionare”",
+	"album": "Sexflix - EP"
+},
+{
+	"artist": "Arctic Monkeys",
+	"songname": "Four Out of Five",
+	"producedby": "Alex Turner",
+	"album": "Tranquility Base Hotel & Casino"
+},
+{
+	"artist": "Arctic Monkeys",
+	"songname": "Star Treatment",
+	"producedby": "Alex Turner",
+	"album": "Tranquility Base Hotel & Casino"
+},
+{
+	"artist": "Alex Turner",
+	"songname": "Stuck on the Puzzle",
+	"producedby": "James Ford",
+	"album": "Submarine"
+},
+{
+	"artist": "Arctic Monkeys",
+	"songname": "One Point Perspective",
+	"producedby": "Alex Turner",
+	"album": "Tranquility Base Hotel & Casino"
+},
+{
+	"artist": "Arctic Monkeys",
+	"songname": "The Ultracheese",
+	"producedby": "James Ford",
+	"album": "Tranquility Base Hotel & Casino"
+},
+{
+	"artist": "Arctic Monkeys",
+	"songname": "Batphone",
+	"producedby": "James Ford",
+	"album": "Tranquility Base Hotel & Casino"
+},
+{
+	"artist": "Arctic Monkeys",
+	"songname": "American Sports",
+	"producedby": "Alex Turner",
+	"album": "Tranquility Base Hotel & Casino"
+},
+{
+	"artist": "Arctic Monkeys",
+	"songname": "She Looks Like Fun",
+	"producedby": "Alex Turner",
+	"album": "Tranquility Base Hotel & Casino"
+},
+{
+	"artist": "Arctic Monkeys",
+	"songname": "Golden Trunks",
+	"producedby": "Alex Turner",
+	"album": "Tranquility Base Hotel & Casino"
+},
+{
+	"artist": "Alfaz",
+	"songname": "Jhutha Pyar",
+	"producedby": "Rakxit RapStar",
+	"album": "-"
+},
+{
+	"artist": "Alfie Templeman",
+	"songname": "Things I Thought Were Mine",
+	"producedby": "Alfie Templeman",
+	"album": "Happiness In Liquid Form"
+},
+{
+	"artist": "Alfie Templeman",
+	"songname": "Like An Animal",
+	"producedby": "Alfie Templeman",
+	"album": "Like An Animal - EP"
+},
+{
+	"artist": "Alfie Templeman",
+	"songname": "Happiness In Liquid Form",
+	"producedby": "Justin Young",
+	"album": "Happiness In Liquid Form"
+},
+{
+	"artist": "Oscar Lang",
+	"songname": "Hey",
+	"producedby": "Oscar Lang",
+	"album": "Bops Etc."
+},
+{
+	"artist": "Alfie Templeman",
+	"songname": "Obvious Guy",
+	"producedby": "Alfie Templeman",
+	"album": "Happiness In Liquid Form"
+},
+{
+	"artist": "Alfie Templeman",
+	"songname": "My Best Friend",
+	"producedby": "Alfie Templeman",
+	"album": "Happiness In Liquid Form"
+},
+{
+	"artist": "Alfie Templeman",
+	"songname": "Yellow Flowers",
+	"producedby": "Alfie Templeman",
+	"album": "Like An Animal - EP"
+},
+{
+	"artist": "Alfie Templeman",
+	"songname": "Used To Love",
+	"producedby": "Kid Harpoon",
+	"album": "Don’t Go Wasting Time"
+},
+{
+	"artist": "Alfie Templeman",
+	"songname": "My Best Friend",
+	"producedby": "Alfie Templeman",
+	"album": "Happiness In Liquid Form"
+},
+{
+	"artist": "Alfie Templeman",
+	"songname": "Happiness In Liquid Form",
+	"producedby": "Justin Young",
+	"album": "Happiness In Liquid Form"
+},
+{
+	"artist": "Alfred Lord Tennyson",
+	"songname": "The Lady of Shalott",
+	"producedby": "Alfred Lord Tennyson",
+	"album": "-"
+},
+{
+	"artist": "Algernon Cadwallader",
+	"songname": "Some Kind of Cadwallader",
+	"producedby": "Joe Reinhart",
+	"album": "Some Kind of Cadwallader"
+},
+{
+	"artist": "Algernon Cadwallader",
+	"songname": "Casual Discussion in a Dome Between Two Temples",
+	"producedby": "Joe Reinhart",
+	"album": "Some Kind of Cadwallader"
+},
+{
+	"artist": "Algernon Cadwallader",
+	"songname": "Motivational Song",
+	"producedby": "Joe Reinhart",
+	"album": "Some Kind of Cadwallader"
+},
+{
+	"artist": "Algernon Cadwallader",
+	"songname": "Horror",
+	"producedby": "Joe Reinhart",
+	"album": "Some Kind of Cadwallader"
+},
+{
+	"artist": "Algernon Cadwallader",
+	"songname": "Serial Killer Status",
+	"producedby": "Joe Reinhart",
+	"album": "Some Kind of Cadwallader"
+},
+{
+	"artist": "Al Green",
+	"songname": "Tired of Being Alone",
+	"producedby": "Willie Mitchell",
+	"album": "Al Green Gets Next to You"
+},
+{
+	"artist": "Al Green",
+	"songname": "Love and Happiness",
+	"producedby": "Willie Mitchell",
+	"album": "I’m Still in Love with You"
+},
+{
+	"artist": "Al Green",
+	"songname": "Take Me to the River",
+	"producedby": "Willie Mitchell",
+	"album": "Explores Your Mind"
+},
+{
+	"artist": "Al Green",
+	"songname": "For the Good Times",
+	"producedby": "Willie Mitchell",
+	"album": "I’m Still in Love with You"
+},
+{
+	"artist": "Al Green",
+	"songname": "Simply Beautiful",
+	"producedby": "Al Green",
+	"album": "I’m Still in Love with You"
+},
+{
+	"artist": "Al Green",
+	"songname": "Free At Last",
+	"producedby": "Willie Mitchell",
+	"album": "Livin’ for You"
+},
+{
+	"artist": "Ali471",
+	"songname": "GOALGETTER",
+	"producedby": "Juh-Dee",
+	"album": "Ali"
+},
+{
+	"artist": "Ali471",
+	"songname": "Hadi Gel Gezelim",
+	"producedby": "Claro Beats",
+	"album": "-"
+},
+{
+	"artist": "Ali471",
+	"songname": "Regen",
+	"producedby": "Young Mesh",
+	"album": "Ali"
+},
+{
+	"artist": "Ali471",
+	"songname": "In meinem Kopf",
+	"producedby": "Frio",
+	"album": "Ali"
+},
+{
+	"artist": "Ali471",
+	"songname": "Tabi Tabi",
+	"producedby": "Frio",
+	"album": "Ali"
+},
+{
+	"artist": "Ali471",
+	"songname": "Hadi Gel",
+	"producedby": "Juh-Dee",
+	"album": "-"
+},
+{
+	"artist": "Ali471",
+	"songname": "Neyle",
+	"producedby": "Juh-Dee",
+	"album": "-"
+},
+{
+	"artist": "Kollegah",
+	"songname": "Schwarze Rosen",
+	"producedby": "Nikki 3k",
+	"album": "Imperator"
+},
+{
+	"artist": "Ali As",
+	"songname": "Hoodie x Chucks",
+	"producedby": "ELI",
+	"album": "Amnesia"
+},
+{
+	"artist": "Ali As",
+	"songname": "Euphoria",
+	"producedby": "ELI",
+	"album": "Euphoria"
+},
+{
+	"artist": "Blokkmonsta",
+	"songname": "Blokkhaus Allstars",
+	"producedby": "BaRRet Beatz",
+	"album": "Blokkhaus"
+},
+{
+	"artist": "Ali As",
+	"songname": "Von den fernen Bergen",
+	"producedby": "DAVID x ELI",
+	"album": "Insomnia"
+},
+{
+	"artist": "Eko Fresh",
+	"songname": "Gangsta Squad",
+	"producedby": "Phat Crispy",
+	"album": "Eksodus"
+},
+{
+	"artist": "Ali As",
+	"songname": "Heroin",
+	"producedby": "Krutsch",
+	"album": "-"
+},
+{
+	"artist": "Namika",
+	"songname": "Wenn sie kommen",
+	"producedby": "Beatgees",
+	"album": "Nador"
+},
+{
+	"artist": "Ali Azmat",
+	"songname": "Yeh Jism",
+	"producedby": "Dino Morea",
+	"album": "Jism 2"
+},
+{
+	"artist": "Javed Bashir",
+	"songname": "Man Kunto Maula",
+	"producedby": "Strings",
+	"album": "Coke Studio Season 9: Sound of the Nation"
+},
+{
+	"artist": "Ali Azmat",
+	"songname": "Maula",
+	"producedby": "Rushk",
+	"album": "Jism 2"
+},
+{
+	"artist": "Ali B",
+	"songname": "Dat Is Money",
+	"producedby": "$hirak",
+	"album": "Een Klein Beetje Geluk"
+},
+{
+	"artist": "Ali B",
+	"songname": "Bentayga",
+	"producedby": "Jordan Wayne",
+	"album": "-"
+},
+{
+	"artist": "Ali B",
+	"songname": "Spectakel",
+	"producedby": "Ramon Ginton",
+	"album": "-"
+},
+{
+	"artist": "Ali B",
+	"songname": "Een Klein Beetje Geluk",
+	"producedby": "$hirak",
+	"album": "Een Klein Beetje Geluk"
+},
+{
+	"artist": "Ali B",
+	"songname": "Anderhalf",
+	"producedby": "Unleaded",
+	"album": "-"
+},
+{
+	"artist": "The Partysquad",
+	"songname": "Rampeneren",
+	"producedby": "Ruben Fernhout",
+	"album": "De Bazen Van De Club"
+},
+{
+	"artist": "Ali B",
+	"songname": "Ik Huil Alleen Bij Jou",
+	"producedby": "Project Money",
+	"album": "Een Klein Beetje Geluk"
+},
+{
+	"artist": "Ali Bumaye",
+	"songname": "Sex ohne Grund",
+	"producedby": "Santos",
+	"album": "Rumble in the Jungle"
+},
+{
+	"artist": "Ali Bumaye",
+	"songname": "Bitch",
+	"producedby": "Djorkaeff",
+	"album": "Fette Unterhaltung"
+},
+{
+	"artist": "Shindy",
+	"songname": "No Joke",
+	"producedby": "Jeremia Anetor",
+	"album": "FVCKB!TCHE$GETMONE¥ (Deluxe)"
+},
+{
+	"artist": "Shindy",
+	"songname": "Playerhater",
+	"producedby": "Santos",
+	"album": "DREAMS"
+},
+{
+	"artist": "Ali Bumaye",
+	"songname": "Best Friends",
+	"producedby": "OZ",
+	"album": "Rumble in the Jungle"
+},
+{
+	"artist": "Ali Bumaye",
+	"songname": "BLN",
+	"producedby": "I’Scream",
+	"album": "Fette Unterhaltung"
+},
+{
+	"artist": "Ali Bumaye",
+	"songname": "Kimbo Slice",
+	"producedby": "Beatzarre",
+	"album": "Rumble in the Jungle"
+},
+{
+	"artist": "Alice Cooper",
+	"songname": "Poison",
+	"producedby": "Desmond Child",
+	"album": "Trash"
+},
+{
+	"artist": "Alice Cooper",
+	"songname": "Billion Dollar Babies",
+	"producedby": "Bob Ezrin",
+	"album": "Billion Dollar Babies"
+},
+{
+	"artist": "Alice Cooper",
+	"songname": "Ballad of Dwight Fry",
+	"producedby": "Jack Richardson",
+	"album": "Love It to Death"
+},
+{
+	"artist": "Alice Cooper",
+	"songname": "Only Women Bleed",
+	"producedby": "Bob Ezrin",
+	"album": "Welcome to My Nightmare"
+},
+{
+	"artist": "Alice Cooper",
+	"songname": "Steven",
+	"producedby": "Bob Ezrin",
+	"album": "Welcome to My Nightmare"
+},
+{
+	"artist": "Alice Cooper",
+	"songname": "Feed My Frankenstein",
+	"producedby": "Peter Collins",
+	"album": "Hey Stoopid"
+},
+{
+	"artist": "Alice Gas",
+	"songname": "FERRARI",
+	"producedby": "Alice Gas",
+	"album": "SORRY 4 BEING FAMOUS"
+},
+{
+	"artist": "ericdoa",
+	"songname": "Sheaskedwhatmylifeislike",
+	"producedby": "4am",
+	"album": "-"
+},
+{
+	"artist": "Alice Gas",
+	"songname": "SPACE",
+	"producedby": "Alice Gas",
+	"album": "SORRY 4 BEING FAMOUS"
+},
+{
+	"artist": "i9bonsai",
+	"songname": "mixd up",
+	"producedby": "angelus",
+	"album": "-"
+},
+{
+	"artist": "saturn",
+	"songname": "grinning",
+	"producedby": "Alice Gas",
+	"album": "-"
+},
+{
+	"artist": "Dolly",
+	"songname": "IMGONNAGETMYREVENGE",
+	"producedby": "Dolly",
+	"album": "-"
+},
+{
+	"artist": "8485",
+	"songname": "Special",
+	"producedby": "Alice Gas",
+	"album": "alpha testing"
+},
+{
+	"artist": "Alice Gas",
+	"songname": "PARANOID",
+	"producedby": "Alice Gas",
+	"album": "-"
+},
+{
+	"artist": "Alice Gas",
+	"songname": "Leg Room",
+	"producedby": "Alice Gas",
+	"album": "-"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "Without Love",
+	"producedby": "Lars Stalfors",
+	"album": "Alice Glass EP"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "Forgiveness",
+	"producedby": "Matt Rad",
+	"album": "Alice Glass EP"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "STILLBIRTH",
+	"producedby": "Lars Stalfors",
+	"album": "-"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "White Lies",
+	"producedby": "Matt Rad",
+	"album": "Alice Glass EP"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "Blood Oath",
+	"producedby": "Jupiter Keyes",
+	"album": "Alice Glass EP"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "Natural Selection",
+	"producedby": "Jupiter Keyes",
+	"album": "Alice Glass EP"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "Mine",
+	"producedby": "Matt Rad",
+	"album": "-"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "CEASE AND DESIST",
+	"producedby": "Dreamcrusher",
+	"album": "-"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "The Altar",
+	"producedby": "Jupiter Keyes",
+	"album": "Alice Glass EP"
+},
+{
+	"artist": "Alice Glass",
+	"songname": "I Trusted You",
+	"producedby": "Jupiter Keyes",
+	"album": "-"
+},
+{
+	"artist": "Alice Longyu Gao",
+	"songname": "Rich Bitch Juice",
+	"producedby": "Dylan Brady",
+	"album": "-"
+},
+{
+	"artist": "Alice Longyu Gao",
+	"songname": "Dumb Bitch Juice",
+	"producedby": "Dylan Brady",
+	"album": "-"
+},
+{
+	"artist": "Alice Longyu Gao",
+	"songname": "Scam",
+	"producedby": "Alex e Alex",
+	"album": "-"
+},
+{
+	"artist": "Alice Longyu Gao",
+	"songname": "Karma Is a Witch",
+	"producedby": "Alex and Alex",
+	"album": "-"
+},
+{
+	"artist": "Alice Longyu Gao",
+	"songname": "Magnificroissant",
+	"producedby": "Alex Bilo",
+	"album": "-"
+},
+{
+	"artist": "Alice Longyu Gao",
+	"songname": "Yung Piece of Shit Shut Up",
+	"producedby": "Dylan Brady",
+	"album": "Violent Pop by ALG*"
+},
+{
+	"artist": "Alice Longyu Gao",
+	"songname": "U Think U Can Fuck with Me Dont Ya",
+	"producedby": "Chris Greatti",
+	"album": "Violent Pop by ALG*"
+},
+{
+	"artist": "Alice Phoebe Lou",
+	"songname": "She",
+	"producedby": "Phillip Kirschniok",
+	"album": "-"
+},
+{
+	"artist": "Alice Phoebe Lou",
+	"songname": "Something Holy",
+	"producedby": "Noah Georgeson",
+	"album": "Paper Castles"
+},
+{
+	"artist": "Alice Phoebe Lou",
+	"songname": "Orbit",
+	"producedby": "Matteo Pavesi",
+	"album": "Orbit"
+},
+{
+	"artist": "Alice Phoebe Lou",
+	"songname": "Society",
+	"producedby": "Matteo Pavesi",
+	"album": "Orbit"
+},
+{
+	"artist": "Alice Phoebe Lou",
+	"songname": "Skin Crawl",
+	"producedby": "Noah Georgeson",
+	"album": "Paper Castles"
+},
+{
+	"artist": "Alice Phoebe Lou",
+	"songname": "Berlin Blues",
+	"producedby": "Thor Rixon",
+	"album": "Momentum - EP"
+},
+{
+	"artist": "Alice Phoebe Lou",
+	"songname": "Haruki",
+	"producedby": "Matteo Pavesi",
+	"album": "Orbit"
+},
+{
+	"artist": "Kontra K",
+	"songname": "Gift",
+	"producedby": "Kalli",
+	"album": "Vollmond"
+},
+{
+	"artist": "Alicia Awa",
+	"songname": "Good Things",
+	"producedby": "MADIZIN",
+	"album": "DSDS Finale 2019"
+},
+{
+	"artist": "Alicia Awa",
+	"songname": "Yes Indeed",
+	"producedby": "Brasco (DEU)",
+	"album": "-"
+},
+{
+	"artist": "Alicks",
+	"songname": "Help Me Out",
+	"producedby": "Alicks",
+	"album": "Help Me Out"
+},
+{
+	"artist": "Alicks",
+	"songname": "CRT",
+	"producedby": "Alicks",
+	"album": "1997"
+},
+{
+	"artist": "ilyTOMMY",
+	"songname": "lonely nights",
+	"producedby": "Alicks",
+	"album": "-"
+},
+{
+	"artist": "Alicks",
+	"songname": "Next To You",
+	"producedby": "Alicks",
+	"album": "Help Me Out"
+},
+{
+	"artist": "Doja Cat",
+	"songname": "Lie Down",
+	"producedby": "Alicks",
+	"album": "Unreleased Songs"
+},
+{
+	"artist": "Alicks",
+	"songname": "im tired of this",
+	"producedby": "Alicks",
+	"album": "Everything Is So Beautiful"
+},
+{
+	"artist": "Alicks",
+	"songname": "sympathy",
+	"producedby": "Alicks",
+	"album": "Everything Is So Beautiful"
+},
+{
+	"artist": "Alicks",
+	"songname": "What It Meant to Me",
+	"producedby": "Alicks",
+	"album": "Help Me Out"
+},
+{
+	"artist": "Ali Gatie",
+	"songname": "Moonlight",
+	"producedby": "Adriano (Producer)",
+	"album": "YOU"
+},
+{
+	"artist": "Ali Gatie",
+	"songname": "What If I Told You That I Love You",
+	"producedby": "Ali Gatie",
+	"album": "The Idea Of Her"
+},
+{
+	"artist": "Ali Gatie",
+	"songname": "Remedy",
+	"producedby": "BubbaGotBeatz",
+	"album": "-"
+},
+{
+	"artist": "Ali Gatie",
+	"songname": "Running on My Mind",
+	"producedby": "Danny Boy",
+	"album": "The Idea Of Her"
+},
+{
+	"artist": "Ali Gatie",
+	"songname": "Losing You",
+	"producedby": "Schiavs",
+	"album": "-"
+},
+{
+	"artist": "Ali Gatie",
+	"songname": "Say to You",
+	"producedby": "Joe Gallagher",
+	"album": "YOU"
+},
+{
+	"artist": "Ali Gatie",
+	"songname": "Used to You",
+	"producedby": "Joe Gallagher",
+	"album": "YOU"
+},
+{
+	"artist": "Ali Gatie",
+	"songname": "Moonlight",
+	"producedby": "Adriano (Producer)",
+	"album": "YOU"
+},
+{
+	"artist": "Ali Haider",
+	"songname": "Sandesa",
+	"producedby": "Ali Haider",
+	"album": "-"
+},
+{
+	"artist": "Alina Baraz",
+	"songname": "Electric",
+	"producedby": "Jonathan Elkær",
+	"album": "The Color of You"
+},
+{
+	"artist": "Alina Baraz",
+	"songname": "Floating",
+	"producedby": "Cautious Clay",
+	"album": "The Color of You"
+},
+{
+	"artist": "Alina Baraz",
+	"songname": "To Me",
+	"producedby": "Spencer Stewart",
+	"album": "It Was Divine"
+},
+{
+	"artist": "Alina Baraz",
+	"songname": "Lavender and Velvet",
+	"producedby": "Jonathan Elkær",
+	"album": "-"
+},
+{
+	"artist": "Ta-ku",
+	"songname": "Down For You",
+	"producedby": "Atu",
+	"album": "Songs To Make Up To"
+},
+{
+	"artist": "Alina Baraz",
+	"songname": "Buzzin",
+	"producedby": "Ben Billions",
+	"album": "-"
+},
+{
+	"artist": "Alina Baraz",
+	"songname": "Off the Grid",
+	"producedby": "Spencer Stewart",
+	"album": "It Was Divine"
+},
+{
+	"artist": "Alina Baraz",
+	"songname": "Yours",
+	"producedby": "Jonathan Elkær",
+	"album": "The Color of You"
+},
+{
+	"artist": "Alina Baraz",
+	"songname": "More Than Enough",
+	"producedby": "Dante Jones",
+	"album": "It Was Divine"
+},
+{
+	"artist": "Brad Paisley",
+	"songname": "Whiskey Lullaby",
+	"producedby": "Frank Rogers",
+	"album": "Mud on the Tires"
+},
+{
+	"artist": "Alison Krauss",
+	"songname": "Baby Mine",
+	"producedby": "Alison Krauss",
+	"album": "A Hundred Miles or More: A Collection"
+},
+{
+	"artist": "Alison Krauss",
+	"songname": "Down to the River to Pray",
+	"producedby": "T-Bone Burnett",
+	"album": "A Hundred Miles or More: A Collection"
+},
+{
+	"artist": "Alison Krauss",
+	"songname": "Losing You",
+	"producedby": "Buddy Cannon",
+	"album": "Windy City"
+},
+{
+	"artist": "Alan Jackson",
+	"songname": "Like Red On A Rose",
+	"producedby": "Alison Krauss",
+	"album": "Like Red On A Rose"
+},
+{
+	"artist": "Alison Wonderland",
+	"songname": "Church",
+	"producedby": "Illangelo",
+	"album": "Awake"
+},
+{
+	"artist": "Alison Wonderland",
+	"songname": "High",
+	"producedby": "Naderi",
+	"album": "Awake"
+},
+{
+	"artist": "Alison Wonderland",
+	"songname": "Cry",
+	"producedby": "Lido",
+	"album": "Awake"
+},
+{
+	"artist": "Alison Wonderland",
+	"songname": "Run",
+	"producedby": "Awe",
+	"album": "Run"
+},
+{
+	"artist": "Alison Wonderland",
+	"songname": "Easy",
+	"producedby": "Joel Little",
+	"album": "Awake"
+},
+{
+	"artist": "Alison Wonderland",
+	"songname": "I Want U",
+	"producedby": "Djemba Djemba",
+	"album": "Run"
+},
+{
+	"artist": "Alison Wonderland",
+	"songname": "Happy Place",
+	"producedby": "Joel Little",
+	"album": "Awake"
+},
+{
+	"artist": "Angela",
+	"songname": "Breathe Again",
+	"producedby": "Alison Wonderland",
+	"album": "VOCAL COLLECTION vol.2"
+},
+{
+	"artist": "Alison Wonderland",
+	"songname": "Awake",
+	"producedby": "Joel Little",
+	"album": "Awake"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Kavir",
+	"producedby": "Saeed Dehghan",
+	"album": "Kavir"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Poshte In Jang Ha",
+	"producedby": "Saeed Dehghan",
+	"album": "Kavir"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Negar",
+	"producedby": "Ehsan Ziya",
+	"album": "Negar"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Mehran",
+	"producedby": "Ali Sorena",
+	"album": "-"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Majnoune Shahr",
+	"producedby": "Mez’rab",
+	"album": "Aavaar"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Gonjeshkaka",
+	"producedby": "Saeed Dehghan",
+	"album": "Kavir"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Teryagh",
+	"producedby": "Saeed Dehghan",
+	"album": "Kavir"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Tatre Sayeha",
+	"producedby": "Ali Sorena",
+	"album": "Kavir"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Nemitarsam",
+	"producedby": "Mez’rab",
+	"album": "Aavaar"
+},
+{
+	"artist": "Ali Sorena",
+	"songname": "Keshti",
+	"producedby": "Mez’rab",
+	"album": "Negar"
+},
+{
+	"artist": "Alisson Shore",
+	"songname": "Polaroid",
+	"producedby": "Alisson Shore",
+	"album": "-"
+},
+{
+	"artist": "Alisson Shore",
+	"songname": "Violet",
+	"producedby": "Alisson Shore",
+	"album": "-"
+},
+{
+	"artist": "Alisson Shore",
+	"songname": "Hanggang sa Huli",
+	"producedby": "Alisson Shore",
+	"album": "-"
+},
+{
+	"artist": "Alisson Shore",
+	"songname": "Foolin",
+	"producedby": "Ash Wenzday",
+	"album": "-"
+},
+{
+	"artist": "Alisson Shore",
+	"songname": "Polaris",
+	"producedby": "Alisson Shore",
+	"album": "-"
+},
+{
+	"artist": "Alisson Shore",
+	"songname": "Halaga",
+	"producedby": "Alisson Shore",
+	"album": "GARUDA"
+},
+{
+	"artist": "ALIZADE",
+	"songname": "Gucci",
+	"producedby": "Pretty Scream",
+	"album": "BI$LAND"
+},
+{
+	"artist": "Big Baby Tape",
+	"songname": "Trap Medals",
+	"producedby": "StoopidXool",
+	"album": "Hoodrich Tales"
+},
+{
+	"artist": "ALIZADE",
+	"songname": "Luna",
+	"producedby": "Evince Beats",
+	"album": "BI$LAND"
+},
+{
+	"artist": "ALIZADE",
+	"songname": "Make UP",
+	"producedby": "Big Baby Tape",
+	"album": "BI$LAND"
+},
+{
+	"artist": "ALIZADE",
+	"songname": "August",
+	"producedby": "FATFAT DRUMS",
+	"album": "-"
+},
+{
+	"artist": "ALIZADE",
+	"songname": "Karma",
+	"producedby": "Big Baby Tape",
+	"album": "-"
+},
+{
+	"artist": "Ali Zafar",
+	"songname": "Rockstar",
+	"producedby": "Strings",
+	"album": "Coke Studio Season 8"
+},
+{
+	"artist": "Ali Zafar",
+	"songname": "Us Rah Par",
+	"producedby": "Strings",
+	"album": "Coke Studio Season 10"
+},
+{
+	"artist": "Ali Zafar",
+	"songname": "Chan Ve",
+	"producedby": "Naqash Haider",
+	"album": "Teefa In Trouble: The Movie"
+},
+{
+	"artist": "Ali Zafar",
+	"songname": "Julie",
+	"producedby": "Strings",
+	"album": "Coke Studio Season 10"
+},
+{
+	"artist": "Ali Zafar",
+	"songname": "Jaan-E-Bahaaraan",
+	"producedby": "Strings",
+	"album": "Coke Studio Season 10"
+},
+{
+	"artist": "Ali Zafar",
+	"songname": "Item Number",
+	"producedby": "Naqash Haider",
+	"album": "Teefa In Trouble: The Movie"
+},
+{
+	"artist": "Al James",
+	"songname": "Ngayong Gabi",
+	"producedby": "@producedbyJimP",
+	"album": "-"
+},
+{
+	"artist": "Al James",
+	"songname": "Pahinga",
+	"producedby": "MKSB",
+	"album": "-"
+},
+{
+	"artist": "Al James",
+	"songname": "Pa-Umaga",
+	"producedby": "Jim P",
+	"album": "-"
+},
+{
+	"artist": "Al James",
+	"songname": "Latina",
+	"producedby": "Jim P",
+	"album": "-"
+},
+{
+	"artist": "Al Jarreau",
+	"songname": "Roof Garden",
+	"producedby": "Jay Graydon",
+	"album": "Breakin’ Away"
+},
+{
+	"artist": "Alkaline",
+	"songname": "Move Mountains",
+	"producedby": "Notnice Records",
+	"album": "Alkaline Mixtape"
+},
+{
+	"artist": "Alkaline",
+	"songname": "Spoil You",
+	"producedby": "DJ Sunshine",
+	"album": "The Hit List Vol. 6: Deluxe"
+},
+{
+	"artist": "A Boogie wit da Hoodie",
+	"songname": "Nonchalant",
+	"producedby": "Iloveryno",
+	"album": "International Artist"
+},
+{
+	"artist": "Alkaline",
+	"songname": "After All",
+	"producedby": "Lee Milla Productions",
+	"album": "Club Life Riddim"
+},
+{
+	"artist": "Alkaline",
+	"songname": "Pretty Girl Team",
+	"producedby": "Johnny Wonder",
+	"album": "Forever Riddim"
+},
+{
+	"artist": "Alkaline",
+	"songname": "Fast",
+	"producedby": "DJ Sunshine",
+	"album": "-"
+},
+{
+	"artist": "Alkaline",
+	"songname": "Suave",
+	"producedby": "Chimney Records",
+	"album": "All Night Riddim"
+},
+{
+	"artist": "Alkaline",
+	"songname": "Extra Lesson",
+	"producedby": "DJ Frass",
+	"album": "The Hit List Vol. 6: Deluxe"
+},
+{
+	"artist": "Alkaline",
+	"songname": "Side Chick",
+	"producedby": "DJ Frass",
+	"album": "New Level Unlocked"
+},
+{
+	"artist": "Alkaline Trio",
+	"songname": "Radio",
+	"producedby": "Matt Allison",
+	"album": "Maybe I’ll Catch Fire"
+},
+{
+	"artist": "Alkaline Trio",
+	"songname": "Mercy Me",
+	"producedby": "Jerry Finn",
+	"album": "Crimson"
+},
+{
+	"artist": "Alkaline Trio",
+	"songname": "Private Eye",
+	"producedby": "Alkaline Trio",
+	"album": "From Here to Infirmary"
+},
+{
+	"artist": "Alkaline Trio",
+	"songname": "Demon and Division",
+	"producedby": "Cameron Webb",
+	"album": "Is This Thing Cursed?"
+},
+{
+	"artist": "Alkaline Trio",
+	"songname": "Blackbird",
+	"producedby": "Cameron Webb",
+	"album": "Is This Thing Cursed?"
+},
+{
+	"artist": "Alkaline Trio",
+	"songname": "Sweet Vampires",
+	"producedby": "Cameron Webb",
+	"album": "Is This Thing Cursed?"
+},
+{
+	"artist": "Alkaline Trio",
+	"songname": "Goodbye Fire Island",
+	"producedby": "Cameron Webb",
+	"album": "Is This Thing Cursed?"
+},
+{
+	"artist": "Alkaline Trio",
+	"songname": "Stay",
+	"producedby": "Cameron Webb",
+	"album": "Is This Thing Cursed?"
+},
+{
+	"artist": "Kumar Sanu",
+	"songname": "Tu Mile Dil Khile",
+	"producedby": "M. M. Keeravani",
+	"album": "Criminal"
+},
+{
+	"artist": "Alka Yagnik",
+	"songname": "Aapke Pyaar Mein",
+	"producedby": "Nadeem - Shravan",
+	"album": "Raaz (Original Motion Picture Soundtrack)"
+},
+{
+	"artist": "Sonu Nigam",
+	"songname": "Chal Pyar Karegi",
+	"producedby": "Tips Films",
+	"album": "Jab Pyaar Kisise Hota Hai (Original Motion Picture Soundtrack)"
+},
+{
+	"artist": "Nicole Kidman",
+	"songname": "Hindi Sad Diamonds",
+	"producedby": "Josh G. Abrahams",
+	"album": "Music From Baz Luhrmann’s Film Moulin Rouge (Original Motion Picture Soundtrack)"
+},
+{
+	"artist": "Kumar Sanu",
+	"songname": "Mehfil Mein Bar Bar",
+	"producedby": "Anu Malik",
+	"album": "Soldier (Original Motion Picture Soundtrack)"
+},
+{
+	"artist": "Alka Yagnik",
+	"songname": "Salaam",
+	"producedby": "Anu Malik",
+	"album": "Caminho das Índias: Indiano"
+},
+{
+	"artist": "Udit Narayan",
+	"songname": "Chun Liya Maine Tujhe",
+	"producedby": "Anu Malik",
+	"album": "Beqabu (Original Motion Picture Soundtrack)"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Plus haut",
+	"producedby": "Beebs",
+	"album": "Les Marches de l’Empereur (Saison 3)"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Purification",
+	"producedby": "DJ Weedim",
+	"album": "Les Marches de l’Empereur (Saison 3)"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Nautilus",
+	"producedby": "BBP",
+	"album": "Monument"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Le Grand Aigle",
+	"producedby": "Chapo",
+	"album": "Les Marches de l’Empereur"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Meilleur lendemain",
+	"producedby": "Ovaground",
+	"album": "L’Orgasmixtape 2"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Simple pute",
+	"producedby": "DJ Weedim",
+	"album": "Les Marches de l’Empereur"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Pyramides",
+	"producedby": "Pyroman",
+	"album": "Sadisme et Perversion"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Jeune Igo",
+	"producedby": "DJ Weedim",
+	"album": "Les Marches de l’Empereur"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Freestyle OKLM",
+	"producedby": "BricksDaMane",
+	"album": "OKLM Freestyles"
+},
+{
+	"artist": "Alkpote",
+	"songname": "Simple pute",
+	"producedby": "DJ Weedim",
+	"album": "Les Marches de l’Empereur"
+},
+{
+	"artist": "All-4-One",
+	"songname": "I Swear",
+	"producedby": "David Foster",
+	"album": "All-4-One"
+},
+{
+	"artist": "All-4-One",
+	"songname": "I Can Love You Like That",
+	"producedby": "David Foster",
+	"album": "And the Music Speaks"
+},
+{
+	"artist": "All-4-One",
+	"songname": "So Much In Love",
+	"producedby": "Tim O’Brien",
+	"album": "All-4-One"
+},
+{
+	"artist": "All-4-One",
+	"songname": "Someday",
+	"producedby": "Alan Menken",
+	"album": "twenty+"
+},
+{
+	"artist": "The All-American Rejects",
+	"songname": "Gives You Hell",
+	"producedby": "Eric Valentine",
+	"album": "When the World Comes Down"
+},
+{
+	"artist": "The All-American Rejects",
+	"songname": "Dirty Little Secret",
+	"producedby": "Howard Benson",
+	"album": "Move Along"
+},
+{
+	"artist": "The All-American Rejects",
+	"songname": "It Ends Tonight",
+	"producedby": "Howard Benson",
+	"album": "Move Along"
+},
+{
+	"artist": "The All-American Rejects",
+	"songname": "Move Along",
+	"producedby": "Howard Benson",
+	"album": "Move Along"
+},
+{
+	"artist": "The All-American Rejects",
+	"songname": "Sweat",
+	"producedby": "Ido Zmishlany",
+	"album": "Sweat - EP"
+},
+{
+	"artist": "The All-American Rejects",
+	"songname": "Close Your Eyes",
+	"producedby": "Benny Cassette",
+	"album": "Sweat - EP"
+},
+{
+	"artist": "The All-American Rejects",
+	"songname": "Send Her to Heaven",
+	"producedby": "The All-American Rejects",
+	"album": "Send Her to Heaven - EP"
+},
+{
+	"artist": "Allan Rayman",
+	"songname": "13",
+	"producedby": "Moose (Producer)",
+	"album": "Roadhouse 01"
+},
+{
+	"artist": "Allan Rayman",
+	"songname": "Tennessee",
+	"producedby": "Substance",
+	"album": "Hotel Allan (2015)"
+},
+{
+	"artist": "Allan Rayman",
+	"songname": "27",
+	"producedby": "Substance",
+	"album": "Hotel Allan (2015)"
+},
+{
+	"artist": "Allan Rayman",
+	"songname": "Graceland",
+	"producedby": "Moose (Producer)",
+	"album": "Hotel Allan (2015)"
+},
+{
+	"artist": "Allan Rayman",
+	"songname": "Repeat",
+	"producedby": "Moose (Producer)",
+	"album": "Roadhouse 01"
+},
+{
+	"artist": "Allan Rayman",
+	"songname": "All at Once",
+	"producedby": "Moose (Producer)",
+	"album": "-"
+},
+{
+	"artist": "Allan Rayman",
+	"songname": "Lucy the Tease",
+	"producedby": "Moose (Producer)",
+	"album": "Hotel Allan"
+},
+{
+	"artist": "Allan Rayman",
+	"songname": "Word of Mouth",
+	"producedby": "Substance",
+	"album": "Courtney"
+},
+{
+	"artist": "Allan Rayman",
+	"songname": "Verona the Hellcat",
+	"producedby": "Moose (Producer)",
+	"album": "Hotel Allan"
+},
+{
+	"artist": "ALLBLACK",
+	"songname": "Canadian Goose",
+	"producedby": "FeezyDisABangah",
+	"album": "KimSon"
+},
+{
+	"artist": "ALLBLACK",
+	"songname": "Road Run",
+	"producedby": "DTB",
+	"album": "Outcalls"
+},
+{
+	"artist": "ALLBLACK",
+	"songname": "07 Lynch",
+	"producedby": "Charisma 808",
+	"album": "-"
+},
+{
+	"artist": "ALLBLACK",
+	"songname": "ALLWHITE",
+	"producedby": "DTB",
+	"album": "Outcalls"
+},
+{
+	"artist": "Nef The Pharaoh",
+	"songname": "86",
+	"producedby": "DTB",
+	"album": "The Big Chang Theory"
+},
+{
+	"artist": "Drakeo the Ruler",
+	"songname": "Blamped",
+	"producedby": "Bowprice",
+	"album": "Cold Devil"
+},
+{
+	"artist": "Drakeo the Ruler",
+	"songname": "Cyber Bullies",
+	"producedby": "Duse Beatz",
+	"album": "Free the Stinc Team - Not Guilty!!!"
+},
+{
+	"artist": "Allday",
+	"songname": "Right Now",
+	"producedby": "Cam Bluff",
+	"album": "Startup Cult"
+},
+{
+	"artist": "Allday",
+	"songname": "Sick Sad World",
+	"producedby": "Aliensa",
+	"album": "Soon I’ll Be In Cali 2"
+},
+{
+	"artist": "Allday",
+	"songname": "Wolves",
+	"producedby": "M-Phazes",
+	"album": "Startup Cult"
+},
+{
+	"artist": "Allday",
+	"songname": "You Always Know the DJ",
+	"producedby": "One Above",
+	"album": "Startup Cult"
+},
+{
+	"artist": "Allday",
+	"songname": "In Motion",
+	"producedby": "Japanese Wallpaper",
+	"album": "Speeding"
+},
+{
+	"artist": "Allday",
+	"songname": "Claude Monet",
+	"producedby": "Cam Bluff",
+	"album": "-"
+},
+{
+	"artist": "Allday",
+	"songname": "Sides",
+	"producedby": "Mitch Graunke",
+	"album": "Speeding"
+},
+{
+	"artist": "Allday",
+	"songname": "Send Nudes",
+	"producedby": "Cam Bluff",
+	"album": "-"
+},
+{
+	"artist": "Jai Waetford",
+	"songname": "Drunk Together",
+	"producedby": "Cam Bluff",
+	"album": "-"
+},
+{
+	"artist": "Allday",
+	"songname": "All Da Way",
+	"producedby": "Sid Swindail",
+	"album": "-"
+},
+{
+	"artist": "Allen Halloween",
+	"songname": "Bandido Velho",
+	"producedby": "Maradox Primeiro",
+	"album": "Híbrido"
+},
+{
+	"artist": "Allen Halloween",
+	"songname": "Youth",
+	"producedby": "Maradox Primeiro",
+	"album": "Híbrido"
+},
+{
+	"artist": "Allen Halloween",
+	"songname": "No Love",
+	"producedby": "Maradox Primeiro",
+	"album": "Projecto Mary Witch"
+},
+{
+	"artist": "Allen Halloween",
+	"songname": "Crescer",
+	"producedby": "Maradox Primeiro",
+	"album": "Unplugueto"
+},
+{
+	"artist": "Allen Halloween",
+	"songname": "Dia de Um Dread de 16 Anos",
+	"producedby": "Maradox Primeiro",
+	"album": "Projecto Mary Witch"
+},
+{
+	"artist": "Allen Halloween",
+	"songname": "Na Porta Do Bar",
+	"producedby": "Maradox Primeiro",
+	"album": "Unplugueto"
+},
+{
+	"artist": "Allen Halloween",
+	"songname": "Marmita Boy",
+	"producedby": "Maradox Primeiro",
+	"album": "Híbrido"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "Unaware",
+	"producedby": "Lior Goldenberg",
+	"album": "Allen Stone"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "Brown Eyed Lover",
+	"producedby": "Jamie Lidell",
+	"album": "Building Balance"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "American Privilege",
+	"producedby": "Magnus Tingsek",
+	"album": "Radius"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "Give You Blue",
+	"producedby": "Jeremy Most",
+	"album": "Building Balance"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "Circle",
+	"producedby": "Magnus Tingsek",
+	"album": "Radius"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "Million",
+	"producedby": "Allen Stone",
+	"album": "-"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "Love",
+	"producedby": "Magnus Tingsek",
+	"album": "Radius"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "Consider Me",
+	"producedby": "Allen Stone",
+	"album": "Building Balance"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "Unaware",
+	"producedby": "Lior Goldenberg",
+	"album": "Allen Stone"
+},
+{
+	"artist": "Allen Stone",
+	"songname": "Upside",
+	"producedby": "Magnus Tingsek",
+	"album": "Radius"
+},
+{
+	"artist": "Childish Gambino",
+	"songname": "Real Estate",
+	"producedby": "Childish Gambino",
+	"album": "Royalty"
+},
+{
+	"artist": "Freddie Gibbs",
+	"songname": "Rob Me A Nigga",
+	"producedby": "Big K.R.I.T.",
+	"album": "Cold Day in Hell"
+},
+{
+	"artist": "Alley Boy",
+	"songname": "Your Favorite Rapper",
+	"producedby": "Ricky Racks",
+	"album": "The Gift Of Discernment"
+},
+{
+	"artist": "Alley Boy",
+	"songname": "Four",
+	"producedby": "Metro Boomin",
+	"album": "Definition of Fuck Shit Pt. 2"
+},
+{
+	"artist": "Allie X",
+	"songname": "Bitch",
+	"producedby": "Allie X",
+	"album": "CollXtion I"
+},
+{
+	"artist": "Allie X",
+	"songname": "Paper Love",
+	"producedby": "Jordan Palmer",
+	"album": "CollXtion II"
+},
+{
+	"artist": "Allie X",
+	"songname": "Casanova",
+	"producedby": "Jordan Palmer",
+	"album": "CollXtion II: Ʉnsolved"
+},
+{
+	"artist": "Lucian Piane",
+	"songname": "The Baddest Bitches in Herstory",
+	"producedby": "Lucian Piane",
+	"album": "-"
+},
+{
+	"artist": "Allie X",
+	"songname": "Downtown",
+	"producedby": "Cirkut",
+	"album": "CollXtion II"
+},
+{
+	"artist": "Allie X",
+	"songname": "Susie Save Your Love",
+	"producedby": "Valley Girl",
+	"album": "Cape God"
+},
+{
+	"artist": "Allie X",
+	"songname": "Old Habits Die Hard",
+	"producedby": "Billboard (Producer)",
+	"album": "CollXtion II"
+},
+{
+	"artist": "Allie X",
+	"songname": "Lifted",
+	"producedby": "Billboard (Producer)",
+	"album": "CollXtion II"
+},
+{
+	"artist": "Allie X",
+	"songname": "Paper Love",
+	"producedby": "Jordan Palmer",
+	"album": "CollXtion II"
+},
+{
+	"artist": "Alligatoah",
+	"songname": "Willst du",
+	"producedby": "Alligatoah",
+	"album": "Triebwerke"
+},
+{
+	"artist": "Alligatoah",
+	"songname": "Fick ihn doch",
+	"producedby": "Alligatoah",
+	"album": "Triebwerke"
+},
+{
+	"artist": "Alligatoah",
+	"songname": "Trauerfeier Lied",
+	"producedby": "Alligatoah",
+	"album": "Triebwerke"
+},
+{
+	"artist": "Trailerpark",
+	"songname": "Bleib in der Schule",
+	"producedby": "Alligatoah",
+	"album": "Crackstreet Boys 3"
+},
+{
+	"artist": "Alligatoah",
+	"songname": "Narben",
+	"producedby": "Alligatoah",
+	"album": "Triebwerke"
+},
+{
+	"artist": "Alligatoah",
+	"songname": "Trostpreis",
+	"producedby": "Alligatoah",
+	"album": "Schlaftabletten, Rotwein III"
+},
+{
+	"artist": "Trailerpark",
+	"songname": "Selbstbefriedigung",
+	"producedby": "Alligatoah",
+	"album": "Crackstreet Boys 2"
+},
+{
+	"artist": "Alligatoah",
+	"songname": "Amnesie",
+	"producedby": "Alligatoah",
+	"album": "Triebwerke"
+},
+{
+	"artist": "Alligatoah",
+	"songname": "Hab ich recht",
+	"producedby": "Alligatoah",
+	"album": "Musik ist keine Lösung"
+},
+{
+	"artist": "The Allman Brothers Band",
+	"songname": "Blue Sky",
+	"producedby": "Tom Dowd",
+	"album": "Eat A Peach"
+},
+{
+	"artist": "The Allman Brothers Band",
+	"songname": "Melissa",
+	"producedby": "Tom Dowd",
+	"album": "Eat A Peach"
+},
+{
+	"artist": "The Allman Brothers Band",
+	"songname": "Whipping Post",
+	"producedby": "Adrian Barber",
+	"album": "The Allman Brothers Band"
+},
+{
+	"artist": "The Allman Brothers Band",
+	"songname": "Midnight Rider",
+	"producedby": "Tom Dowd",
+	"album": "Idlewild South"
+},
+{
+	"artist": "The Allman Brothers Band",
+	"songname": "Jessica",
+	"producedby": "The Allman Brothers Band",
+	"album": "Brothers and Sisters"
+},
+{
+	"artist": "The Allman Brothers Band",
+	"songname": "Soulshine",
+	"producedby": "Tom Dowd",
+	"album": "Where It All Begins"
+},
+{
+	"artist": "The Allman Brothers Band",
+	"songname": "In Memory of Elizabeth Reed",
+	"producedby": "Tom Dowd",
+	"album": "Idlewild South"
+},
+{
+	"artist": "The Allman Brothers Band",
+	"songname": "One Way Out",
+	"producedby": "Tom Dowd",
+	"album": "Eat A Peach"
+},
+{
+	"artist": "All Saints",
+	"songname": "Pure Shores",
+	"producedby": "William Orbit",
+	"album": "Saints & Sinners"
+},
+{
+	"artist": "All Saints",
+	"songname": "Never Ever",
+	"producedby": "Booga Bear",
+	"album": "All Saints (Japanese Edition)"
+},
+{
+	"artist": "All Saints",
+	"songname": "One Woman Man",
+	"producedby": "K-Gee",
+	"album": "Red Flag"
+},
+{
+	"artist": "All Saints",
+	"songname": "Black Coffee",
+	"producedby": "William Orbit",
+	"album": "Saints & Sinners"
+},
+{
+	"artist": "All Saints",
+	"songname": "One Strike",
+	"producedby": "Hutch (Rap)",
+	"album": "Red Flag"
+},
+{
+	"artist": "All Saints",
+	"songname": "After All",
+	"producedby": "William Orbit",
+	"album": "Testament"
+},
+{
+	"artist": "All Saints",
+	"songname": "Bootie Call",
+	"producedby": "K-Gee",
+	"album": "All Saints (Japanese Edition)"
+},
+{
+	"artist": "All Saints",
+	"songname": "Love Lasts Forever",
+	"producedby": "K-Gee",
+	"album": "Testament"
+},
+{
+	"artist": "All Saints",
+	"songname": "Lady Marmalade",
+	"producedby": "Neville Henry",
+	"album": "All Saints"
+},
+{
+	"artist": "All Saints",
+	"songname": "Under the Bridge",
+	"producedby": "Nellee Hooper",
+	"album": "All Saints (Japanese Edition)"
+},
+{
+	"artist": "Lauren Daigle",
+	"songname": "Power to Redeem",
+	"producedby": "Paul Mabury",
+	"album": "How Can It Be"
+},
+{
+	"artist": "Third Day",
+	"songname": "Soul On Fire",
+	"producedby": "The SoundKids",
+	"album": "Lead Us Back: Songs of Worship"
+},
+{
+	"artist": "All That Remains",
+	"songname": "Two Weeks",
+	"producedby": "Jason Suecof",
+	"album": "Overcome"
+},
+{
+	"artist": "All That Remains",
+	"songname": "Fuck Love",
+	"producedby": "Daniel Laskiewicz",
+	"album": "Victim of the New Disease"
+},
+{
+	"artist": "All That Remains",
+	"songname": "Six",
+	"producedby": "Adam Dutkiewicz",
+	"album": "The Fall of Ideals"
+},
+{
+	"artist": "All That Remains",
+	"songname": "This Calling",
+	"producedby": "Adam Dutkiewicz",
+	"album": "The Fall of Ideals"
+},
+{
+	"artist": "All That Remains",
+	"songname": "What If I Was Nothing",
+	"producedby": "Adam Dutkiewicz",
+	"album": "A War You Cannot Win"
+},
+{
+	"artist": "All That Remains",
+	"songname": "Madness",
+	"producedby": "Mike Plotnikoff",
+	"album": "Madness"
+},
+{
+	"artist": "All That Remains",
+	"songname": "The Thunder Rolls",
+	"producedby": "Mike Plotnikoff",
+	"album": "Madness"
+},
+{
+	"artist": "All That Remains",
+	"songname": "Safe House",
+	"producedby": "Mike Plotnikoff",
+	"album": "Madness"
+},
+{
+	"artist": "All That Remains",
+	"songname": "Halo",
+	"producedby": "Howard Benson",
+	"album": "Madness"
+},
+{
+	"artist": "All Them Witches",
+	"songname": "When God Comes Back",
+	"producedby": "Andy Putnam",
+	"album": "Lightning at the Door"
+},
+{
+	"artist": "All Them Witches",
+	"songname": "The Marriage of Coyote Woman",
+	"producedby": "Andy Putnam",
+	"album": "Lightning at the Door"
+},
+{
+	"artist": "All Them Witches",
+	"songname": "Charles William",
+	"producedby": "Andy Putnam",
+	"album": "Lightning at the Door"
+},
+{
+	"artist": "All Them Witches",
+	"songname": "3-5-7",
+	"producedby": "Dave Cobb",
+	"album": "Sleeping Through the War"
+},
+{
+	"artist": "All Them Witches",
+	"songname": "Diamond",
+	"producedby": "Ben McLeod",
+	"album": "ATW"
+},
+{
+	"artist": "All Them Witches",
+	"songname": "Alabaster",
+	"producedby": "Dave Cobb",
+	"album": "Sleeping Through the War"
+},
+{
+	"artist": "All Them Witches",
+	"songname": "Am I Going Up",
+	"producedby": "Dave Cobb",
+	"album": "Sleeping Through the War"
+},
+{
+	"artist": "All Time Low",
+	"songname": "Monsters",
+	"producedby": "Andrew Goldstein",
+	"album": "Wake Up, Sunshine"
+},
+{
+	"artist": "All Time Low",
+	"songname": "Remembering Sunday",
+	"producedby": "Paul Leavitt",
+	"album": "So Wrong, It’s Right (iTunes Deluxe Edition)"
+},
+{
+	"artist": "All Time Low",
+	"songname": "Therapy",
+	"producedby": "David Bendeth",
+	"album": "Nothing Personal"
+},
+{
+	"artist": "All Time Low",
+	"songname": "Missing You",
+	"producedby": "John Feldmann",
+	"album": "Future Hearts (Deluxe Edition)"
+},
+{
+	"artist": "All Time Low",
+	"songname": "Good Times",
+	"producedby": "Andrew Goldstein",
+	"album": "Last Young Renegade"
+},
+{
+	"artist": "All Time Low",
+	"songname": "Dirty Laundry",
+	"producedby": "Nick Furlong",
+	"album": "Last Young Renegade"
+},
+{
+	"artist": "All Time Low",
+	"songname": "Last Young Renegade",
+	"producedby": "All Time Low",
+	"album": "Last Young Renegade"
+},
+{
+	"artist": "All Time Low",
+	"songname": "Kids in the Dark",
+	"producedby": "Mike Green",
+	"album": "Future Hearts (Deluxe Edition)"
+},
+{
+	"artist": "Pepe Quintana",
+	"songname": "Ella Y Yo",
+	"producedby": "Mambo Kingz",
+	"album": "-"
+},
+{
+	"artist": "Aloe Blacc",
+	"songname": "The Man",
+	"producedby": "DJ Khalil",
+	"album": "Lift Your Spirit"
+},
+{
+	"artist": "Avicii",
+	"songname": "SOS",
+	"producedby": "Albin Nedler",
+	"album": "TIM"
+},
+{
+	"artist": "Nas",
+	"songname": "Wrote My Way Out",
+	"producedby": "!llmind",
+	"album": "The Hamilton Mixtape"
+},
+{
+	"artist": "Aloe Blacc",
+	"songname": "I Need a Dollar",
+	"producedby": "Jeff Dynamite",
+	"album": "Good Things"
+},
+{
+	"artist": "Dilated Peoples",
+	"songname": "Show Me the Way",
+	"producedby": "Jake One",
+	"album": "Directors of Photography"
+},
+{
+	"artist": "Owl City",
+	"songname": "Verge",
+	"producedby": "Aloe Blacc",
+	"album": "Mobile Orchestra"
+},
+{
+	"artist": "Alonzo",
+	"songname": "Finis-les",
+	"producedby": "Benjay",
+	"album": "Capo Dei Capi, vol. 1"
+},
+{
+	"artist": "Alonzo",
+	"songname": "Binta",
+	"producedby": "Hedia",
+	"album": "Avenue de St-Antoine"
+},
+{
+	"artist": "Alonzo",
+	"songname": "La Belle Vie",
+	"producedby": "Teddy Hitmakerz",
+	"album": "Règlement de comptes"
+},
+{
+	"artist": "Alonzo",
+	"songname": "Papa Allo",
+	"producedby": "Narcos",
+	"album": "100%"
+},
+{
+	"artist": "Gradur",
+	"songname": "Oblah",
+	"producedby": "Rob White",
+	"album": "Where Is l’album de Gradur"
+},
+{
+	"artist": "Alonzo",
+	"songname": "Normal",
+	"producedby": "JuL",
+	"album": "Capo Dei Capi, vol. 1"
+},
+{
+	"artist": "Alonzo",
+	"songname": "Santana",
+	"producedby": "Aurélien Mazin",
+	"album": "Taxi 5 (BO)"
+},
+{
+	"artist": "Alonzo",
+	"songname": "En boucle",
+	"producedby": "Baille Broliker",
+	"album": "Règlement de comptes"
+},
+{
+	"artist": "Oliver Stone",
+	"songname": "Scarface Script",
+	"producedby": "Universal Studios",
+	"album": "-"
+},
+{
+	"artist": "Al Pacino",
+	"songname": "Inches",
+	"producedby": "Oliver Stone",
+	"album": "-"
+},
+{
+	"artist": "Kilo-G",
+	"songname": "Intro",
+	"producedby": "O.D. Fingers",
+	"album": "The Bloody City"
+},
+{
+	"artist": "Sido",
+	"songname": "Frohe Weihnachten",
+	"producedby": "Aggro Berlin",
+	"album": "Freetracks & Exclusives"
+},
+{
+	"artist": "Alpa Gun",
+	"songname": "Turkish Style",
+	"producedby": "Sonus030",
+	"album": "Alles kommt zurück"
+},
+{
+	"artist": "Alpa Gun",
+	"songname": "Karma",
+	"producedby": "Lamagra",
+	"album": "Alles kommt zurück"
+},
+{
+	"artist": "Alpa Gun",
+	"songname": "Chaos",
+	"producedby": "Frank One",
+	"album": "Zurück zur Straße"
+},
+{
+	"artist": "Alpa Gun",
+	"songname": "Verbotene Liebe 2",
+	"producedby": "The Royals",
+	"album": "Alles kommt zurück"
+},
+{
+	"artist": "Alpha Blondy",
+	"songname": "Jerusalem",
+	"producedby": "Alpha Blondy",
+	"album": "Jérusalem"
+},
+{
+	"artist": "Alphaville",
+	"songname": "Forever Young",
+	"producedby": "Andreas Budde",
+	"album": "Forever Young"
+},
+{
+	"artist": "Alphaville",
+	"songname": "Big in Japan",
+	"producedby": "Wolfgang Loos",
+	"album": "Forever Young"
+},
+{
+	"artist": "Alphaville",
+	"songname": "Sounds Like a Melody",
+	"producedby": "Colin Pearson",
+	"album": "Forever Young"
+},
+{
+	"artist": "Alphaville",
+	"songname": "Summer in Berlin",
+	"producedby": "Colin Pearson",
+	"album": "Forever Young"
+},
+{
+	"artist": "Alphaville",
+	"songname": "A Victory of Love",
+	"producedby": "Colin Pearson",
+	"album": "Forever Young"
+},
+{
+	"artist": "Alphaville",
+	"songname": "To Germany With Love",
+	"producedby": "Colin Pearson",
+	"album": "Forever Young"
+},
+{
+	"artist": "Alphaville",
+	"songname": "Fallen Angel",
+	"producedby": "Colin Pearson",
+	"album": "Forever Young"
+},
+{
+	"artist": "Bumble Beezy",
+	"songname": "Digits",
+	"producedby": "Eldar-Q",
+	"album": "-"
+},
+{
+	"artist": "Alpha Wolf",
+	"songname": "Akudama",
+	"producedby": "Lance Prenc",
+	"album": "A Quiet Place to Die"
+},
+{
+	"artist": "Alpha Wolf",
+	"songname": "Failvre",
+	"producedby": "Jamie Marinos",
+	"album": "Mono"
+},
+{
+	"artist": "Alpha Wolf",
+	"songname": "Nail Biter",
+	"producedby": "Jamie Marinos",
+	"album": "-"
+},
+{
+	"artist": "Al Safir",
+	"songname": "Shars 2020",
+	"producedby": "Baker",
+	"album": "-"
+},
+{
+	"artist": "Al Safir",
+	"songname": "Valkirias",
+	"producedby": "Assimm Music",
+	"album": "-"
+},
+{
+	"artist": "Matas Vandals",
+	"songname": "Peaky Blinders",
+	"producedby": "Ruyi Bang Records",
+	"album": "-"
+},
+{
+	"artist": "Al Stewart",
+	"songname": "Year of the Cat",
+	"producedby": "Alan Parsons",
+	"album": "Year of the Cat"
+},
+{
+	"artist": "Al Stewart",
+	"songname": "Time Passages",
+	"producedby": "Alan Parsons",
+	"album": "Time Passages"
+},
+{
+	"artist": "Al Stewart",
+	"songname": "On The Border",
+	"producedby": "Alan Parsons",
+	"album": "Year of the Cat"
+},
+{
+	"artist": "Al Stewart",
+	"songname": "Roads to Moscow",
+	"producedby": "John Anthony",
+	"album": "Past, Present and Future"
+},
+{
+	"artist": "Al Stewart",
+	"songname": "The Palace of Versailles",
+	"producedby": "Alan Parsons",
+	"album": "Time Passages"
+},
+{
+	"artist": "Al Stewart",
+	"songname": "Lord Grenville",
+	"producedby": "Alan Parsons",
+	"album": "Year of the Cat"
+},
+{
+	"artist": "Al Stewart",
+	"songname": "Song on the Radio",
+	"producedby": "Alan Parsons",
+	"album": "Time Passages"
+},
+{
+	"artist": "Al Stewart",
+	"songname": "Nostradamus",
+	"producedby": "John Anthony",
+	"album": "Past, Present and Future"
+},
+{
+	"artist": "Al Stewart",
+	"songname": "Broadway Hotel",
+	"producedby": "Alan Parsons",
+	"album": "Year of the Cat"
+},
+{
+	"artist": "Alz X 38",
+	"songname": "Hotspot Freestyle",
+	"producedby": "Tweeko",
+	"album": "YMN World"
+},
+{
+	"artist": "Alz X 38",
+	"songname": "Case Closed",
+	"producedby": "Tweeko",
+	"album": "-"
+},
+{
+	"artist": "Alz X 38",
+	"songname": "Run It Up",
+	"producedby": "Tweeko",
+	"album": "-"
+},
+{
+	"artist": "Alz X 38",
+	"songname": "Hardest",
+	"producedby": "Fumez The Engineer",
+	"album": "YMN World"
+},
+{
+	"artist": "Alz X 38",
+	"songname": "Gifted",
+	"producedby": "Tweeko",
+	"album": "-"
+},
+{
+	"artist": "Alz X 38",
+	"songname": "Deep In My Feelings",
+	"producedby": "Alz X 38",
+	"album": "YMN World"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "Blackbird",
+	"producedby": "Michael “Elvis” Baskette",
+	"album": "Blackbird"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "Metalingus",
+	"producedby": "Alter Bridge",
+	"album": "One Day Remains"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "Watch Over You",
+	"producedby": "Michael “Elvis” Baskette",
+	"album": "Blackbird"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "In Loving Memory",
+	"producedby": "Alter Bridge",
+	"album": "One Day Remains"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "Broken Wings",
+	"producedby": "Alter Bridge",
+	"album": "One Day Remains"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "Godspeed",
+	"producedby": "Michael “Elvis” Baskette",
+	"album": "Walk the Sky"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "Open Your Eyes",
+	"producedby": "Alter Bridge",
+	"album": "One Day Remains"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "Addicted to Pain",
+	"producedby": "Michael “Elvis” Baskette",
+	"album": "Fortress"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "Cry of Achilles",
+	"producedby": "Michael “Elvis” Baskette",
+	"album": "Fortress"
+},
+{
+	"artist": "Alter Bridge",
+	"songname": "Forever Falling",
+	"producedby": "Michael “Elvis” Baskette",
+	"album": "Walk the Sky"
+},
+{
+	"artist": "alt-J",
+	"songname": "Breezeblocks",
+	"producedby": "Charlie Andrew",
+	"album": "An Awesome Wave"
+},
+{
+	"artist": "alt-J",
+	"songname": "Taro",
+	"producedby": "Charlie Andrew",
+	"album": "An Awesome Wave"
+},
+{
+	"artist": "alt-J",
+	"songname": "In Cold Blood",
+	"producedby": "Charlie Andrew",
+	"album": "RELAXER"
+},
+{
+	"artist": "alt-J",
+	"songname": "Fitzpleasure",
+	"producedby": "Charlie Andrew",
+	"album": "An Awesome Wave"
+},
+{
+	"artist": "alt-J",
+	"songname": "Left Hand Free",
+	"producedby": "Charlie Andrew",
+	"album": "This Is All Yours"
+},
+{
+	"artist": "alt-J",
+	"songname": "Tessellate",
+	"producedby": "Charlie Andrew",
+	"album": "An Awesome Wave"
+},
+{
+	"artist": "alt-J",
+	"songname": "Every Other Freckle",
+	"producedby": "Charlie Andrew",
+	"album": "This Is All Yours"
+},
+{
+	"artist": "alt-J",
+	"songname": "Matilda",
+	"producedby": "Charlie Andrew",
+	"album": "An Awesome Wave"
+},
+{
+	"artist": "alt-J",
+	"songname": "Hunger of the Pine",
+	"producedby": "Charlie Andrew",
+	"album": "This Is All Yours"
+},
+{
+	"artist": "alt-J",
+	"songname": "3WW",
+	"producedby": "Charlie Andrew",
+	"album": "RELAXER"
+},
+{
+	"artist": "The Altogether",
+	"songname": "Sophie",
+	"producedby": "Jonah Scott",
+	"album": "Look Up"
+},
+{
+	"artist": "The Altogether",
+	"songname": "Clean Slated State",
+	"producedby": "Jonah Scott",
+	"album": "Clean Slated State"
+},
+{
+	"artist": "The Altogether",
+	"songname": "History Read",
+	"producedby": "Jonah Scott",
+	"album": "Look Up"
+},
+{
+	"artist": "The Altogether",
+	"songname": "Goodbye",
+	"producedby": "Jonah Scott",
+	"album": "Look Up"
+},
+{
+	"artist": "The Altogether",
+	"songname": "Night",
+	"producedby": "Jonah Scott",
+	"album": "Look Up"
+},
+{
+	"artist": "The Altogether",
+	"songname": "Five Minutes",
+	"producedby": "Jonah Scott",
+	"album": "Look Up"
+},
+{
+	"artist": "The Altogether",
+	"songname": "Slowly",
+	"producedby": "Jonah Scott",
+	"album": "Slowly"
+},
+{
+	"artist": "The Altogether",
+	"songname": "Forever Endeavor",
+	"producedby": "Jonah Scott",
+	"album": "When We Were Kids"
+},
+{
+	"artist": "The Altogether",
+	"songname": "Follow Through",
+	"producedby": "Jonah Scott",
+	"album": "Silo"
+},
+{
+	"artist": "Alvaro Soler",
+	"songname": "La Cintura",
+	"producedby": "Alexander „Ali“ Zuckowski",
+	"album": "Mar de Colores"
+},
+{
+	"artist": "Gims",
+	"songname": "Lo Mismo",
+	"producedby": "Renaud Rebillaud",
+	"album": "Ceinture noire"
+},
+{
+	"artist": "Alvaro Soler",
+	"songname": "El Mismo Sol",
+	"producedby": "Alexander „Ali“ Zuckowski",
+	"album": "Eterno Agosto"
+},
+{
+	"artist": "Alvaro Soler",
+	"songname": "Loca",
+	"producedby": "Tricot (Producer)",
+	"album": "Mar de Colores (Versión Extendida)"
+},
+{
+	"artist": "Alvaro Soler",
+	"songname": "La Libertad",
+	"producedby": "Tricot (Producer)",
+	"album": "Mar de Colores (Versión Extendida)"
+},
+{
+	"artist": "Alvaro Soler",
+	"songname": "Puebla",
+	"producedby": "Tricot (Producer)",
+	"album": "Mar de Colores"
+},
+{
+	"artist": "Alvin and the Chipmunks",
+	"songname": "Witch Doctor",
+	"producedby": "Ross Bagdasarian",
+	"album": "Sing Again with The Chipmunks"
+},
+{
+	"artist": "Alvin and the Chipmunks",
+	"songname": "Bad Romance",
+	"producedby": "Ali Dee",
+	"album": "Alvin and the Chipmunks: Chipwrecked: Music from the Motion Picture"
+},
+{
+	"artist": "Alvin Slaughter",
+	"songname": "Midnight Cry",
+	"producedby": "Scott Williamson",
+	"album": "Yes!"
+},
+{
+	"artist": "Alvin Slaughter",
+	"songname": "I Will Run to You",
+	"producedby": "Paul Mills",
+	"album": "Rain Down"
+},
+{
+	"artist": "Alvin Slaughter",
+	"songname": "Move In This Place",
+	"producedby": "Scott Williamson",
+	"album": "Yes!"
+},
+{
+	"artist": "AlvinToday",
+	"songname": "Kono-Hub",
+	"producedby": "Grillabeats",
+	"album": "-"
+},
+{
+	"artist": "Alvvays",
+	"songname": "Dreams Tonite",
+	"producedby": "Alec O’Hanley",
+	"album": "Antisocialites"
+},
+{
+	"artist": "Alvvays",
+	"songname": "Adult Diversion",
+	"producedby": "Chad VanGaalen",
+	"album": "Alvvays"
+},
+{
+	"artist": "Alvvays",
+	"songname": "In Undertow",
+	"producedby": "Alec O’Hanley",
+	"album": "Antisocialites"
+},
+{
+	"artist": "Alvvays",
+	"songname": "Not My Baby",
+	"producedby": "Alec O’Hanley",
+	"album": "Antisocialites"
+},
+{
+	"artist": "Alvvays",
+	"songname": "Party Police",
+	"producedby": "Chad VanGaalen",
+	"album": "Alvvays"
+},
+{
+	"artist": "Alvvays",
+	"songname": "Ones Who Love You",
+	"producedby": "Chad VanGaalen",
+	"album": "Alvvays"
+},
+{
+	"artist": "Alvvays",
+	"songname": "Next of Kin",
+	"producedby": "Chad VanGaalen",
+	"album": "Alvvays"
+},
+{
+	"artist": "Alvvays",
+	"songname": "Atop a Cake",
+	"producedby": "Chad VanGaalen",
+	"album": "Alvvays"
+},
+{
+	"artist": "Alvvays",
+	"songname": "Plimsoll Punks",
+	"producedby": "Alec O’Hanley",
+	"album": "Antisocialites"
+},
+{
+	"artist": "Always Never",
+	"songname": "Hopeless",
+	"producedby": "Always Never",
+	"album": "Always Never"
+},
+{
+	"artist": "Always Never",
+	"songname": "Millions",
+	"producedby": "Always Never",
+	"album": "Always Never"
+},
+{
+	"artist": "Always Never",
+	"songname": "Tragedy",
+	"producedby": "Always Never",
+	"album": "-"
+},
+{
+	"artist": "Always Never",
+	"songname": "Worst",
+	"producedby": "Always Never",
+	"album": "Always Never"
+},
+{
+	"artist": "Always Never",
+	"songname": "Canadian Dubai",
+	"producedby": "Always Never",
+	"album": "Always Never"
+},
+{
+	"artist": "Always Never",
+	"songname": "Know This",
+	"producedby": "Always Never",
+	"album": "Always Never"
+},
+{
+	"artist": "Always Never",
+	"songname": "Call Me Over",
+	"producedby": "Always Never",
+	"album": "Always Never"
+},
+{
+	"artist": "Always Never",
+	"songname": "Morgan Freeman",
+	"producedby": "Always Never",
+	"album": "Always Never"
+},
+{
+	"artist": "410",
+	"songname": "Mad About Bars",
+	"producedby": "JM-00",
+	"album": "2Bunny"
+},
+{
+	"artist": "410",
+	"songname": "Crash",
+	"producedby": "MikaBeats",
+	"album": "Baghdad Mixtape"
+},
+{
+	"artist": "410",
+	"songname": "Think Again Part 1",
+	"producedby": "BKay",
+	"album": "Baghdad Mixtape"
+},
+{
+	"artist": "410",
+	"songname": "Macaroni",
+	"producedby": "D.Proffit",
+	"album": "2 Bunny the Mixtape"
+},
+{
+	"artist": "410",
+	"songname": "Behind Barz",
+	"producedby": "MoneyEvery",
+	"album": "-"
+},
+{
+	"artist": "410",
+	"songname": "Mansa Musa",
+	"producedby": "D.Proffit",
+	"album": "2 Bunny the Mixtape"
+},
+{
+	"artist": "Tweeko x Sebz",
+	"songname": "The Coldest Link Up",
+	"producedby": "Sebzbeats",
+	"album": "-"
+},
+{
+	"artist": "410",
+	"songname": "Foolishness",
+	"producedby": "JM-00",
+	"album": "Baghdad Mixtape"
+},
+{
+	"artist": "Armaan Malik",
+	"songname": "Sau Aasmaan",
+	"producedby": "Abhijit Vaghani",
+	"album": "Baar Baar Dekho"
+},
+{
+	"artist": "Armaan Malik",
+	"songname": "Besabriyaan",
+	"producedby": "Amaal Mallik",
+	"album": "M.S. Dhoni: The Untold Story"
+},
+{
+	"artist": "Armaan Malik",
+	"songname": "Kuch Toh Hai",
+	"producedby": "Amaal Mallik",
+	"album": "-"
+},
+{
+	"artist": "Amaal Mallik",
+	"songname": "Buddhu Sa Mann",
+	"producedby": "Amaal Mallik",
+	"album": "Kapoor & Sons (Since 1921)"
+},
+{
+	"artist": "Arijit Singh",
+	"songname": "Chal Wahan Jaate Hain",
+	"producedby": "Amaal Mallik",
+	"album": "-"
+},
+{
+	"artist": "Amaal Mallik",
+	"songname": "Dil Ko Maine Di Kasam",
+	"producedby": "Aditya Dev",
+	"album": "-"
+},
+{
+	"artist": "Arijit Singh",
+	"songname": "Tu Mila To Haina",
+	"producedby": "Amaal Mallik",
+	"album": "De De Pyaar De"
+},
+{
+	"artist": "Amaarae",
+	"songname": "Spend Some Time",
+	"producedby": "Rvdical the Kid",
+	"album": "Spend Some Time (Single)"
+},
+{
+	"artist": "Amaarae",
+	"songname": "LEAVE ME ALONE",
+	"producedby": "Kristina Si",
+	"album": "The Angel You Don’t Know"
+},
+{
+	"artist": "Kojey Radical",
+	"songname": "Sugar",
+	"producedby": "Swindle",
+	"album": "Cashmere Tears"
+},
+{
+	"artist": "Amaarae",
+	"songname": "SAD GIRLZ LUV MONEY",
+	"producedby": "Yinka Bernie",
+	"album": "The Angel You Don’t Know"
+},
+{
+	"artist": "Amaarae",
+	"songname": "JUMPING SHIP",
+	"producedby": "KYU Steed, KZdidit",
+	"album": "The Angel You Don’t Know"
+},
+{
+	"artist": "Amaarae",
+	"songname": "FANCY",
+	"producedby": "Kwame Kwei Armah",
+	"album": "The Angel You Don’t Know"
+},
+{
+	"artist": "AmaLee",
+	"songname": "Gurenge",
+	"producedby": "Fruutella",
+	"album": "Total Coverage, Vol. 5"
+},
+{
+	"artist": "AmaLee",
+	"songname": "Guren no Yumiya",
+	"producedby": "Daniel Alvarez",
+	"album": "-"
+},
+{
+	"artist": "AmaLee",
+	"songname": "Kiss of Death",
+	"producedby": "AmaLee",
+	"album": "Total Coverage, Vol. 6"
+},
+{
+	"artist": "AmaLee",
+	"songname": "Kuusou Mesorogiwi",
+	"producedby": "NateWantsToBattle",
+	"album": "-"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "Tried Up",
+	"producedby": "Che Pope",
+	"album": "DDD EP"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "NORTHSIDE",
+	"producedby": "COUPE",
+	"album": "Ama, who?"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "Wire",
+	"producedby": "Che Pope",
+	"album": "DDD EP"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "Wrong Lesson",
+	"producedby": "Che Pope",
+	"album": "DDD EP"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "Far Out",
+	"producedby": "Dpat",
+	"album": "Ama, who?"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "This Town",
+	"producedby": "Che Pope",
+	"album": "Ama, who?"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "Not Always",
+	"producedby": "Like Minds",
+	"album": "-"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "TBC",
+	"producedby": "Exmoor Emperor",
+	"album": "-"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "Better",
+	"producedby": "Frank Dukes",
+	"album": "Ama, who?"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "Wire",
+	"producedby": "Che Pope",
+	"album": "DDD EP"
+},
+{
+	"artist": "Ama Lou",
+	"songname": "Tried Up",
+	"producedby": "Che Pope",
+	"album": "DDD EP"
+},
+{
+	"artist": "Amanda Fagan",
+	"songname": "You Were My Friend",
+	"producedby": "Amanda Fagan",
+	"album": "DreamSMP’s Themes"
+},
+{
+	"artist": "Saul",
+	"songname": "Hotel",
+	"producedby": "Nicholas Naison",
+	"album": "Hotel 471"
+},
+{
+	"artist": "Saul",
+	"songname": "471",
+	"producedby": "Nuri",
+	"album": "Hotel 471"
+},
+{
+	"artist": "Delik",
+	"songname": "Pozri mami",
+	"producedby": "Masif Sound",
+	"album": "MVP"
+},
+{
+	"artist": "Delik",
+	"songname": "Obloha",
+	"producedby": "Galactic Donuts",
+	"album": "MVP"
+},
+{
+	"artist": "Delik",
+	"songname": "Ja moje ja a ja",
+	"producedby": "Peko",
+	"album": "MVP"
+},
+{
+	"artist": "Delik",
+	"songname": "Z baru do baru",
+	"producedby": "BEAUZ",
+	"album": "MVP"
+},
+{
+	"artist": "Porsche Boy",
+	"songname": "Maliny",
+	"producedby": "Porsche Boy",
+	"album": "Kým je hore Moon"
+},
+{
+	"artist": "Porsche Boy",
+	"songname": "Stanko Lobotka",
+	"producedby": "SOLSA",
+	"album": "-"
+},
+{
+	"artist": "Fobia Kid",
+	"songname": "Klop klop",
+	"producedby": "ConspiracyFlat",
+	"album": "Kultúrny šok"
+},
+{
+	"artist": "Fobia Kid",
+	"songname": "Figaro",
+	"producedby": "Konex",
+	"album": "Kultúrny šok"
+},
+{
+	"artist": "Fobia Kid",
+	"songname": "CMVM",
+	"producedby": "ConspiracyFlat",
+	"album": "Kultúrny šok"
+},
+{
+	"artist": "Shimmi",
+	"songname": "Drop Top",
+	"producedby": "Yae",
+	"album": "COLORS"
+},
+{
+	"artist": "Shimmi",
+	"songname": "Ako Duch",
+	"producedby": "Dobrin",
+	"album": "COLORS"
+},
+{
+	"artist": "Shimmi",
+	"songname": "Goldmine",
+	"producedby": "Parker Zung",
+	"album": "COLORS"
+},
+{
+	"artist": "Shimmi",
+	"songname": "Kruhy",
+	"producedby": "Holy Pontiac",
+	"album": "COLORS"
+},
+{
+	"artist": "Shimmi",
+	"songname": "Teenage Punk",
+	"producedby": "Parker Zung",
+	"album": "COLORS"
+},
+{
+	"artist": "Pil C",
+	"songname": "MP2",
+	"producedby": "Mjay Beatz",
+	"album": "-"
+},
+{
+	"artist": "Pil C",
+	"songname": "Silent Hill",
+	"producedby": "SpecialBeatz",
+	"album": "V RÁDIU HRAL ELÁN, KEĎ UMREL TUPAC"
+},
+{
+	"artist": "Pil C",
+	"songname": "ZOO",
+	"producedby": "Daysix",
+	"album": "V RÁDIU HRAL ELÁN, KEĎ UMREL TUPAC"
+},
+{
+	"artist": "Pil C",
+	"songname": "Apatia",
+	"producedby": "SpecialBeatz",
+	"album": "V RÁDIU HRAL ELÁN, KEĎ UMREL TUPAC"
+},
+{
+	"artist": "Pil C",
+	"songname": "Tony",
+	"producedby": "Brenk Sinatra",
+	"album": "V RÁDIU HRAL ELÁN, KEĎ UMREL TUPAC"
+},
+{
+	"artist": "Pil C",
+	"songname": "Outro",
+	"producedby": "SpecialBeatz",
+	"album": "V RÁDIU HRAL ELÁN, KEĎ UMREL TUPAC"
+},
+{
+	"artist": "Pil C",
+	"songname": "HAWAII",
+	"producedby": "SpecialBeatz",
+	"album": "-"
+},
+{
+	"artist": "Dalyb",
+	"songname": "hello kitty",
+	"producedby": "Nuri",
+	"album": "TEEN(R)AGE"
+},
+{
+	"artist": "Dalyb",
+	"songname": "HUF",
+	"producedby": "Dalyb",
+	"album": "TEEN(R)AGE"
+},
+{
+	"artist": "Dalyb",
+	"songname": "4eva",
+	"producedby": "Nuri",
+	"album": "TEEN(R)AGE"
+},
+{
+	"artist": "Dalyb",
+	"songname": "bagstage",
+	"producedby": "Dalyb",
+	"album": "TEEN(R)AGE"
+},
+{
+	"artist": "Dalyb",
+	"songname": "blok123",
+	"producedby": "Dalyb",
+	"album": "TEEN(R)AGE"
+},
+{
+	"artist": "Dalyb",
+	"songname": "nikoho",
+	"producedby": "Dalyb",
+	"album": "TEEN(R)AGE"
+},
+{
+	"artist": "Samey",
+	"songname": "doba",
+	"producedby": "Dalyb",
+	"album": "XYZ"
+},
+{
+	"artist": "Samey",
+	"songname": "lotus",
+	"producedby": "Nuri",
+	"album": "XYZ"
+},
+{
+	"artist": "Samey",
+	"songname": "MY",
+	"producedby": "Dennis B",
+	"album": "XYZ"
+},
+{
+	"artist": "Samey",
+	"songname": "cool",
+	"producedby": "Imotape Productions",
+	"album": "XYZ"
+},
+{
+	"artist": "Zayo",
+	"songname": "COWBOY",
+	"producedby": "Decky",
+	"album": "HAPPY HALLOWEEN"
+},
+{
+	"artist": "Nik Tendo",
+	"songname": "Cash Money",
+	"producedby": "Reseted Hoe",
+	"album": "7"
+},
+{
+	"artist": "Amanda Fagan",
+	"songname": "Iron Man",
+	"producedby": "And Christan Hancock",
+	"album": "STARK the Musical"
+},
+{
+	"artist": "Amanda Fagan",
+	"songname": "Avengers Are In Town",
+	"producedby": "Christian Hancock",
+	"album": "STARK the Musical"
+},
+{
+	"artist": "Amanda Fagan",
+	"songname": "Save The City",
+	"producedby": "Christian Hancock",
+	"album": "STARK the Musical"
+},
+{
+	"artist": "Evelyn Evelyn",
+	"songname": "Evelyn Evelyn",
+	"producedby": "Jason Webley",
+	"album": "Evelyn Evelyn"
+},
+{
+	"artist": "Amanda Palmer",
+	"songname": "Runs in the Family",
+	"producedby": "Ben Folds",
+	"album": "Who Killed Amanda Palmer"
+},
+{
+	"artist": "Evelyn Evelyn",
+	"songname": "Sandy Fishnets",
+	"producedby": "Jason Webley",
+	"album": "Evelyn Evelyn"
+},
+{
+	"artist": "Evelyn Evelyn",
+	"songname": "A Campaign of Shock and Awe",
+	"producedby": "Jason Webley",
+	"album": "Evelyn Evelyn"
+},
+{
+	"artist": "Amanda Palmer",
+	"songname": "Drowning In The Sound",
+	"producedby": "John Congleton",
+	"album": "There Will Be No Intermission"
+},
+{
+	"artist": "Evelyn Evelyn",
+	"songname": "Chicken Man",
+	"producedby": "Jason Webley",
+	"album": "Evelyn Evelyn"
+},
+{
+	"artist": "Amaranthe",
+	"songname": "365",
+	"producedby": "Jacob Hansen",
+	"album": "Helix"
+},
+{
+	"artist": "Amaranthe",
+	"songname": "Amaranthine",
+	"producedby": "Jeppe Andersson",
+	"album": "Amaranthe"
+},
+{
+	"artist": "Amaranthe",
+	"songname": "The Nexus",
+	"producedby": "Jacob Hansen",
+	"album": "The Nexus"
+},
+{
+	"artist": "Amaranthe",
+	"songname": "Drop Dead Cynical",
+	"producedby": "Jacob Hansen",
+	"album": "Massive Addictive"
+},
+{
+	"artist": "Amaranthe",
+	"songname": "Digital World",
+	"producedby": "Jacob Hansen",
+	"album": "Massive Addictive"
+},
+{
+	"artist": "Amaranthe",
+	"songname": "Maximize",
+	"producedby": "Jakob Herrmann",
+	"album": "Maximalism"
+},
+{
+	"artist": "Amaranthe",
+	"songname": "Helix",
+	"producedby": "Jacob Hansen",
+	"album": "Helix"
+},
+{
+	"artist": "Amateur Transplants",
+	"songname": "London Underground",
+	"producedby": "Adam Kay",
+	"album": "London Underground"
+},
+{
+	"artist": "The Amazing Devil",
+	"songname": "The Horror and The Wild",
+	"producedby": "Tom Addison",
+	"album": "The Horror and the Wild"
+},
+{
+	"artist": "The Amazing Devil",
+	"songname": "Farewell Wanderlust",
+	"producedby": "Tom Addison",
+	"album": "The Horror and the Wild"
+},
+{
+	"artist": "The Amazing Devil",
+	"songname": "That Unwanted Animal",
+	"producedby": "Tom Addison",
+	"album": "The Horror and the Wild"
+},
+{
+	"artist": "The Amazing Devil",
+	"songname": "Fair",
+	"producedby": "Tom Addison",
+	"album": "The Horror and the Wild"
+},
+{
+	"artist": "The Amazing Devil",
+	"songname": "Wild Blue Yonder",
+	"producedby": "Tom Addison",
+	"album": "The Horror and the Wild"
+},
+{
+	"artist": "The Amazing Devil",
+	"songname": "King",
+	"producedby": "Madeleine Hyland",
+	"album": "Love Run"
+},
+{
+	"artist": "The Amazing Devil",
+	"songname": "Marbles",
+	"producedby": "Tom Addison",
+	"album": "The Horror and the Wild"
+},
+{
+	"artist": "The Amazing Devil",
+	"songname": "Battle Cries",
+	"producedby": "Tom Addison",
+	"album": "The Horror and the Wild"
+},
+{
+	"artist": "The Amazing Devil",
+	"songname": "Welly Boots",
+	"producedby": "Tom Addison",
+	"album": "The Horror and the Wild"
+},
+{
+	"artist": "The Amazing World of Gumball",
+	"songname": "Goodbye",
+	"producedby": "Cartoon Network",
+	"album": "-"
+},
+{
+	"artist": "The Amazing World of Gumball",
+	"songname": "Make the Most of It",
+	"producedby": "Cartoon Network",
+	"album": "-"
+},
+{
+	"artist": "The Amazing World of Gumball",
+	"songname": "Life Can Make You Smile",
+	"producedby": "Cartoon Network",
+	"album": "-"
+},
+{
+	"artist": "The Amazing World of Gumball",
+	"songname": "Ketchup Rap",
+	"producedby": "Cartoon Network",
+	"album": "-"
+},
+{
+	"artist": "The Amazing World of Gumball",
+	"songname": "Pizza Rap",
+	"producedby": "Cartoon Network",
+	"album": "-"
+},
+{
+	"artist": "The Amazing World of Gumball",
+	"songname": "Senior Citizens",
+	"producedby": "Cartoon Network",
+	"album": "-"
+},
+{
+	"artist": "The Amazing World of Gumball",
+	"songname": "Be Your Own You",
+	"producedby": "Cartoon Network",
+	"album": "-"
+},
+{
+	"artist": "Ambar Lucid",
+	"songname": "A letter to my younger self",
+	"producedby": "Ambar Lucid",
+	"album": "Dreaming Lucid"
+},
+{
+	"artist": "Ambar Lucid",
+	"songname": "Eyes",
+	"producedby": "Ambar Lucid",
+	"album": "Dreaming Lucid"
+},
+{
+	"artist": "Ambar Lucid",
+	"songname": "Fantasmas",
+	"producedby": "Ambar Lucid",
+	"album": "Garden of Lucid"
+},
+{
+	"artist": "Ambar Lucid",
+	"songname": "Universe",
+	"producedby": "The Wavys",
+	"album": "Garden of Lucid"
+},
+{
+	"artist": "Ambar Lucid",
+	"songname": "Story to Tell",
+	"producedby": "The Wavys",
+	"album": "Garden of Lucid"
+},
+{
+	"artist": "Ambar Lucid",
+	"songname": "Listen",
+	"producedby": "Ambar Lucid",
+	"album": "-"
+},
+{
+	"artist": "Ambar Lucid",
+	"songname": "Painted Red",
+	"producedby": "The Wavys",
+	"album": "Dreaming Lucid"
+},
+{
+	"artist": "Ambar Lucid",
+	"songname": "Mar de Llanto",
+	"producedby": "Nicky Davey",
+	"album": "-"
+},
+{
+	"artist": "Amber Mark",
+	"songname": "Love Me Right",
+	"producedby": "Andrew “Pop” Wansel",
+	"album": "Conexão - EP"
+},
+{
+	"artist": "Amber Mark",
+	"songname": "Lose My Cool",
+	"producedby": "Amber Mark",
+	"album": "3:33am - EP"
+},
+{
+	"artist": "Amber Mark",
+	"songname": "Monsoon",
+	"producedby": "Amber Mark",
+	"album": "3:33am - EP"
+},
+{
+	"artist": "Amber Mark",
+	"songname": "Mixer",
+	"producedby": "Andrew Wyatt",
+	"album": "Mixer (Acoustic)"
+},
+{
+	"artist": "Amber Mark",
+	"songname": "Put You On",
+	"producedby": "Julian Bunetta",
+	"album": "-"
+},
+{
+	"artist": "Amber Mark",
+	"songname": "Way Back",
+	"producedby": "Amber Mark",
+	"album": "3:33am - EP"
+},
+{
+	"artist": "Amber Mark",
+	"songname": "Love Is Stronger Than Pride",
+	"producedby": "Amber Mark",
+	"album": "Conexão - EP"
+},
+{
+	"artist": "Amber Mark",
+	"songname": "What If",
+	"producedby": "Jeff “Gitty” Gitelman",
+	"album": "AM1*"
+},
+{
+	"artist": "Amber Mark",
+	"songname": "S P A C E",
+	"producedby": "Amber Mark",
+	"album": "3:33am - EP"
+},
+{
+	"artist": "Amber Run",
+	"songname": "I Found",
+	"producedby": "Mike Crossey",
+	"album": "5AM"
+},
+{
+	"artist": "Amber Run",
+	"songname": "5AM",
+	"producedby": "Mike Crossey",
+	"album": "5AM"
+},
+{
+	"artist": "Amber Run",
+	"songname": "No Answers",
+	"producedby": "Sam Winfield",
+	"album": "For a Moment, I Was Lost"
+},
+{
+	"artist": "AMBKOR",
+	"songname": "Camina",
+	"producedby": "Rik Farrés",
+	"album": "Aullidos"
+},
+{
+	"artist": "AMBKOR",
+	"songname": "Miedo",
+	"producedby": "Layer Beats",
+	"album": "FREE SOLO"
+},
+{
+	"artist": "AMBKOR",
+	"songname": "Libre",
+	"producedby": "Paul Wise Beats",
+	"album": "Aullidos"
+},
+{
+	"artist": "AMBKOR",
+	"songname": "A pesar de Todo",
+	"producedby": "Hanto Beatmaker",
+	"album": "FREE SOLO"
+},
+{
+	"artist": "AMBKOR",
+	"songname": "Apagado",
+	"producedby": "Royal-Ice Records",
+	"album": "Lobo Negro"
+},
+{
+	"artist": "TOKiMONSTA",
+	"songname": "NO WAY",
+	"producedby": "TOKiMONSTA",
+	"album": "Lune Rouge"
+},
+{
+	"artist": "Keys N Krates",
+	"songname": "Glitter",
+	"producedby": "Keys N Krates",
+	"album": "Cura"
+},
+{
+	"artist": "The Glitch Mob",
+	"songname": "How Do I Get To Invincible",
+	"producedby": "The Glitch Mob",
+	"album": "See Without Eyes"
+},
+{
+	"artist": "Ambush Buzzworl",
+	"songname": "Jumpy Remix",
+	"producedby": "SeriouzBeats",
+	"album": "Jumpy Remix - Single"
+},
+{
+	"artist": "Ambush Buzzworl",
+	"songname": "Jumpy",
+	"producedby": "SeriousBeats",
+	"album": "-"
+},
+{
+	"artist": "Ambush Buzzworl",
+	"songname": "My Size",
+	"producedby": "Mindkeyz",
+	"album": "-"
+},
+{
+	"artist": "BackRoad Gee",
+	"songname": "Party Popper",
+	"producedby": "Finn Wigan",
+	"album": "Mukta vs Mukta"
+},
+{
+	"artist": "Charlie Sloth",
+	"songname": "Fire In The Booth Special",
+	"producedby": "Slay Products",
+	"album": "-"
+},
+{
+	"artist": "Ambush Buzzworl",
+	"songname": "Eastenders",
+	"producedby": "Nastylgia",
+	"album": "Ask My Brother"
+},
+{
+	"artist": "Ambush Buzzworl",
+	"songname": "Extra",
+	"producedby": "SSK Music",
+	"album": "-"
+},
+{
+	"artist": "B Ray x AMee x Masew",
+	"songname": "Do For Love",
+	"producedby": "Masew",
+	"album": "Loser2Lover"
+},
+{
+	"artist": "Ameer Vann",
+	"songname": "Emmanuel",
+	"producedby": "Deats",
+	"album": "EMMANUEL"
+},
+{
+	"artist": "Ameer Vann",
+	"songname": "Glock 19",
+	"producedby": "CuBeatz",
+	"album": "EMMANUEL"
+},
+{
+	"artist": "Ameer Vann",
+	"songname": "Pop Trunk",
+	"producedby": "G-Dav",
+	"album": "EMMANUEL"
+},
+{
+	"artist": "Ameer Vann",
+	"songname": "Los Angeles",
+	"producedby": "Corbett",
+	"album": "EMMANUEL"
+},
+{
+	"artist": "Ameer Vann",
+	"songname": "Sunday Night",
+	"producedby": "Cool N Dre",
+	"album": "EMMANUEL"
+},
+{
+	"artist": "Ameer Vann",
+	"songname": "High Tolerance",
+	"producedby": "Romil Hemnani",
+	"album": "-"
+},
+{
+	"artist": "Ameer Vann",
+	"songname": "Plastic",
+	"producedby": "Hit-Boy",
+	"album": "EMMANUEL"
+},
+{
+	"artist": "Ameer Vann",
+	"songname": "keep your distance",
+	"producedby": "Donut",
+	"album": "AV1*"
+},
+{
+	"artist": "BROCKHAMPTON",
+	"songname": "BEN CARSON",
+	"producedby": "Romil Hemnani",
+	"album": "ALL-AMERICAN TRASH"
+},
+{
+	"artist": "Kevin Abstract",
+	"songname": "Silent Water",
+	"producedby": "Romil Hemnani",
+	"album": "The ASF EP"
+},
+{
+	"artist": "Rohff",
+	"songname": "Hysteric Love",
+	"producedby": "J.R. Rotem",
+	"album": "Le Code De l’Horreur"
+},
+{
+	"artist": "Rohff",
+	"songname": "Rap Game",
+	"producedby": "Gee Futuristic",
+	"album": "Le Code De l’Horreur"
+},
+{
+	"artist": "La Fouine",
+	"songname": "Karl",
+	"producedby": "DJ Erise",
+	"album": "Drôle de parcours"
+},
+{
+	"artist": "Amel Bent",
+	"songname": "Ma Philosophie",
+	"producedby": "Jean-François Berger",
+	"album": "Un jour d’été"
+},
+{
+	"artist": "Tunisiano",
+	"songname": "Le regard des gens",
+	"producedby": "Greg K",
+	"album": "Le regard des gens"
+},
+{
+	"artist": "America",
+	"songname": "A Horse With No Name",
+	"producedby": "Jeff Dexter",
+	"album": "America"
+},
+{
+	"artist": "America",
+	"songname": "Sister Golden Hair",
+	"producedby": "George Martin",
+	"album": "Hearts"
+},
+{
+	"artist": "America",
+	"songname": "Tin Man",
+	"producedby": "George Martin",
+	"album": "Holiday"
+},
+{
+	"artist": "America",
+	"songname": "Ventura Highway",
+	"producedby": "America",
+	"album": "Homecoming"
+},
+{
+	"artist": "America",
+	"songname": "Sandman",
+	"producedby": "Ian Samwell",
+	"album": "America"
+},
+{
+	"artist": "America",
+	"songname": "I Need You",
+	"producedby": "Jeff Dexter",
+	"album": "America"
+},
+{
+	"artist": "America",
+	"songname": "You Can Do Magic",
+	"producedby": "Russ Ballard",
+	"album": "View From the Ground"
+},
+{
+	"artist": "America",
+	"songname": "The Last Unicorn",
+	"producedby": "Klaus Zufall",
+	"album": "Your Move"
+},
+{
+	"artist": "American Authors",
+	"songname": "Best Day of My Life",
+	"producedby": "Shep Goodman",
+	"album": "Oh, What A Life"
+},
+{
+	"artist": "American Authors",
+	"songname": "Deep Water",
+	"producedby": "Cason Cooley",
+	"album": "Seasons"
+},
+{
+	"artist": "American Authors",
+	"songname": "Hit It",
+	"producedby": "Aaron Accetta",
+	"album": "Oh, What A Life"
+},
+{
+	"artist": "American Authors",
+	"songname": "Pride",
+	"producedby": "Aaron Accetta",
+	"album": "What We Live For"
+},
+{
+	"artist": "American Authors",
+	"songname": "Say Amen",
+	"producedby": "Cason Cooley",
+	"album": "Seasons"
+},
+{
+	"artist": "American Authors",
+	"songname": "I Wanna Go Out",
+	"producedby": "American Authors",
+	"album": "Seasons"
+},
+{
+	"artist": "American Authors",
+	"songname": "Neighborhood",
+	"producedby": "Scott Stevens",
+	"album": "Seasons"
+},
+{
+	"artist": "American Dad",
+	"songname": "Pilot",
+	"producedby": "David Zuckerman",
+	"album": "American Dad: Season 1"
+},
+{
+	"artist": "American Football",
+	"songname": "Never Meant",
+	"producedby": "Brendan Gamble",
+	"album": "American Football"
+},
+{
+	"artist": "American Football",
+	"songname": "The Summer Ends",
+	"producedby": "Brendan Gamble",
+	"album": "American Football"
+},
+{
+	"artist": "American Football",
+	"songname": "Uncomfortably Numb",
+	"producedby": "Jason Cupp",
+	"album": "American Football (LP3)"
+},
+{
+	"artist": "American Football",
+	"songname": "Stay Home",
+	"producedby": "Brendan Gamble",
+	"album": "American Football"
+},
+{
+	"artist": "American Football",
+	"songname": "But the Regrets Are Killing Me",
+	"producedby": "Brendan Gamble",
+	"album": "American Football"
+},
+{
+	"artist": "American Football",
+	"songname": "My Instincts Are the Enemy",
+	"producedby": "Jason Cupp",
+	"album": "American Football (LP2)"
+},
+{
+	"artist": "American Football",
+	"songname": "Silhouettes",
+	"producedby": "Jason Cupp",
+	"album": "American Football (LP3)"
+},
+{
+	"artist": "American Football",
+	"songname": "For Sure",
+	"producedby": "Brendan Gamble",
+	"album": "American Football"
+},
+{
+	"artist": "American Murder Song",
+	"songname": "Pretty Lavinia",
+	"producedby": "Scotty Morris",
+	"album": "Murder Ballads of 1816: The Year Without a Summer"
+},
+{
+	"artist": "American Murder Song",
+	"songname": "Johnny",
+	"producedby": "Scotty Morris",
+	"album": "Murder Ballads of 1816: The Year Without a Summer"
+},
+{
+	"artist": "American Murder Song",
+	"songname": "Edward",
+	"producedby": "Scotty Morris",
+	"album": "Murder Ballads of 1816: The Year Without a Summer"
+},
+{
+	"artist": "American Murder Song",
+	"songname": "Lullaby",
+	"producedby": "Scotty Morris",
+	"album": "Murder Ballads of 1816: The Year Without a Summer"
+},
+{
+	"artist": "American Murder Song",
+	"songname": "Mary",
+	"producedby": "Scotty Morris",
+	"album": "Murder Ballads of 1816: The Year Without a Summer"
+},
+{
+	"artist": "American Murder Song",
+	"songname": "Sweet Rosalie",
+	"producedby": "Scotty Morris",
+	"album": "Murder Ballads of 1816: The Year Without a Summer"
+},
+{
+	"artist": "American Murder Song",
+	"songname": "Unwed Henry",
+	"producedby": "Scotty Morris",
+	"album": "Murder Ballads of 1816: The Year Without a Summer"
+},
+{
+	"artist": "American Pleasure Club",
+	"songname": "all the lonely nights in your life",
+	"producedby": "Sam Ray",
+	"album": "a whole fucking lifetime of this"
+},
+{
+	"artist": "American Pleasure Club",
+	"songname": "the sun was in my eyes",
+	"producedby": "Sam Ray",
+	"album": "a whole fucking lifetime of this"
+},
+{
+	"artist": "American Pleasure Club",
+	"songname": "sycamore",
+	"producedby": "Sam Ray",
+	"album": "a whole fucking lifetime of this"
+},
+{
+	"artist": "American Pleasure Club",
+	"songname": "there was a time when i needed it",
+	"producedby": "Sam Ray",
+	"album": "a whole fucking lifetime of this"
+},
+{
+	"artist": "American Pleasure Club",
+	"songname": "eating cherries",
+	"producedby": "Sam Ray",
+	"album": "a whole fucking lifetime of this"
+},
+{
+	"artist": "American Pleasure Club",
+	"songname": "new years eve",
+	"producedby": "Sean Mercer",
+	"album": "a whole fucking lifetime of this"
+},
+{
+	"artist": "American Pleasure Club",
+	"songname": "before my telephone rings",
+	"producedby": "Sam Ray",
+	"album": "a whole fucking lifetime of this"
+},
+{
+	"artist": "Amerie",
+	"songname": "1 Thing",
+	"producedby": "Rich Harrison",
+	"album": "Touch"
+},
+{
+	"artist": "Nas",
+	"songname": "Rule",
+	"producedby": "Trackmasters",
+	"album": "Stillmatic"
+},
+{
+	"artist": "LL Cool J",
+	"songname": "Paradise",
+	"producedby": "Trackmasters",
+	"album": "10"
+},
+{
+	"artist": "Bow Wow",
+	"songname": "To My Mama",
+	"producedby": "Lil Jon",
+	"album": "Unleashed"
+},
+{
+	"artist": "Amerie",
+	"songname": "More Than Love",
+	"producedby": "Del Pearson",
+	"album": "In Love & War"
+},
+{
+	"artist": "Amici Miei",
+	"songname": "Marilena",
+	"producedby": "Nebbïa",
+	"album": "Amici Miei Mixtape"
+},
+{
+	"artist": "Amici Miei",
+	"songname": "Da Un Altro Pianeta",
+	"producedby": "Garelli",
+	"album": "Amici Miei Mixtape"
+},
+{
+	"artist": "Amici Miei",
+	"songname": "Intro Amici Miei",
+	"producedby": "Nebbïa",
+	"album": "Amici Miei Mixtape"
+},
+{
+	"artist": "Amici Miei",
+	"songname": "Bombay",
+	"producedby": "Nebbïa",
+	"album": "Amici Miei Mixtape"
+},
+{
+	"artist": "Amici Miei",
+	"songname": "Odio Chiama Odio",
+	"producedby": "Nebbïa",
+	"album": "Amici Miei Mixtape"
+},
+{
+	"artist": "Amici Miei",
+	"songname": "Outro Amici Miei",
+	"producedby": "Garelli",
+	"album": "Amici Miei Mixtape"
+},
+{
+	"artist": "Amici Miei",
+	"songname": "Caveau",
+	"producedby": "Yung Snapp",
+	"album": "Amici Miei Mixtape"
+},
+{
+	"artist": "Amici Miei",
+	"songname": "Genova Ovest",
+	"producedby": "Davide Ice",
+	"album": "Amici Miei Mixtape"
+},
+{
+	"artist": "Amici Miei",
+	"songname": "Semafori Verdi",
+	"producedby": "Haru",
+	"album": "Amici Miei Mixtape"
+},
+{
+	"artist": "Amigo the Devil",
+	"songname": "The Dreamer",
+	"producedby": "Josh The Goon",
+	"album": "Volume 1"
+},
+{
+	"artist": "Amigo the Devil",
+	"songname": "Dahmer Does Hollywood",
+	"producedby": "Kurt Ballou",
+	"album": "Volume 1"
+},
+{
+	"artist": "Amigo the Devil",
+	"songname": "One Kind of People",
+	"producedby": "Seth Manchester",
+	"album": "Volume 1"
+},
+{
+	"artist": "Amigo the Devil",
+	"songname": "Perfect Wife",
+	"producedby": "Kurt Ballou",
+	"album": "Volume 1"
+},
+{
+	"artist": "Amigo the Devil",
+	"songname": "The Recluse",
+	"producedby": "Amigo the Devil",
+	"album": "Diggers"
+},
+{
+	"artist": "Amiral",
+	"songname": "Medusa",
+	"producedby": "Amiral",
+	"album": "-"
+},
+{
+	"artist": "Amiral",
+	"songname": "Amazon",
+	"producedby": "Amiral",
+	"album": "-"
+},
+{
+	"artist": "Amiral",
+	"songname": "Bumerang",
+	"producedby": "Amiral",
+	"album": "-"
+},
+{
+	"artist": "Amiral",
+	"songname": "Terapi",
+	"producedby": "Emrah Çelik",
+	"album": "Terapi"
+},
+{
+	"artist": "Amiral",
+	"songname": "Fast Life",
+	"producedby": "Amiral",
+	"album": "-"
+},
+{
+	"artist": "Drake",
+	"songname": "Star67",
+	"producedby": "Amir Obè",
+	"album": "If You’re Reading This It’s Too Late"
+},
+{
+	"artist": "Drake",
+	"songname": "Smile",
+	"producedby": "Amir Obè",
+	"album": "-"
+},
+{
+	"artist": "Stwo",
+	"songname": "Fill The Void",
+	"producedby": "Stwo",
+	"album": "D.T.S.N.T."
+},
+{
+	"artist": "Amir Tataloo",
+	"songname": "Gardane Man Nandaz",
+	"producedby": "Amir Tataloo",
+	"album": "78"
+},
+{
+	"artist": "Amir Tataloo",
+	"songname": "Khanoome Vaziri",
+	"producedby": "Meraj Tabasi",
+	"album": "78"
+},
+{
+	"artist": "Amir Tataloo",
+	"songname": "Bezanam Naft Dar Biad",
+	"producedby": "Amir Tataloo",
+	"album": "78"
+},
+{
+	"artist": "Sohrab MJ",
+	"songname": "Male Man Bash",
+	"producedby": "Amir Tataloo",
+	"album": "78"
+},
+{
+	"artist": "Amir Tataloo",
+	"songname": "Fargh Daram Az Dam Ba Ina",
+	"producedby": "Amir Tataloo",
+	"album": "Barzakh"
+},
+{
+	"artist": "Amir Tataloo",
+	"songname": "Dele Man Havato Karde 2",
+	"producedby": "Saeed Ansar",
+	"album": "Sheytan"
+},
+{
+	"artist": "Amir Tataloo",
+	"songname": "Maskhare Bazi",
+	"producedby": "Amir Tataloo",
+	"album": "Jahanam"
+},
+{
+	"artist": "Amir Tataloo",
+	"songname": "Taziyane",
+	"producedby": "Amir Tataloo",
+	"album": "78"
+},
+{
+	"artist": "Sohrab MJ",
+	"songname": "Gorg 2",
+	"producedby": "Amir Tataloo",
+	"album": "78"
+},
+{
+	"artist": "Amir Tataloo",
+	"songname": "Ye Saram Be Ma Bezan",
+	"producedby": "Hasan Babamahmoudi",
+	"album": "Sheytan"
+},
+{
+	"artist": "Amit Trivedi",
+	"songname": "Sham",
+	"producedby": "Amit Trivedi",
+	"album": "Aisha"
+},
+{
+	"artist": "Sunidhi Chauhan",
+	"songname": "Halka Halka",
+	"producedby": "Amit Trivedi",
+	"album": "-"
+},
+{
+	"artist": "Amit Trivedi",
+	"songname": "Manja",
+	"producedby": "Amit Trivedi",
+	"album": "Kai Po Che"
+},
+{
+	"artist": "Amit Trivedi",
+	"songname": "Namo Namo",
+	"producedby": "Amit Trivedi",
+	"album": "Kedarnath"
+},
+{
+	"artist": "Amit Trivedi",
+	"songname": "Meethi Boliyaan",
+	"producedby": "Amit Trivedi",
+	"album": "Kai Po Che"
+},
+{
+	"artist": "Papon",
+	"songname": "Jhuk Na Paunga",
+	"producedby": "Amit Trivedi",
+	"album": "Raid (Original Motion Picture Soundtrack)"
+},
+{
+	"artist": "The Amity Affliction",
+	"songname": "All Fucked Up",
+	"producedby": "Will Putney",
+	"album": "This Could Be Heartbreak"
+},
+{
+	"artist": "The Amity Affliction",
+	"songname": "Pittsburgh",
+	"producedby": "Will Putney",
+	"album": "Let the Ocean Take Me"
+},
+{
+	"artist": "The Amity Affliction",
+	"songname": "Soak Me in Bleach",
+	"producedby": "Matt Squire",
+	"album": "Everyone Loves You... Once You Leave Them"
+},
+{
+	"artist": "The Amity Affliction",
+	"songname": "Drag the Lake",
+	"producedby": "Matt Squire",
+	"album": "Misery"
+},
+{
+	"artist": "The Amity Affliction",
+	"songname": "I Bring the Weather With Me",
+	"producedby": "Will Putney",
+	"album": "This Could Be Heartbreak"
+},
+{
+	"artist": "The Amity Affliction",
+	"songname": "This Could Be Heartbreak",
+	"producedby": "Will Putney",
+	"album": "This Could Be Heartbreak"
+},
+{
+	"artist": "The Amity Affliction",
+	"songname": "Open Letter",
+	"producedby": "Michael “Elvis” Baskette",
+	"album": "Chasing Ghosts"
+},
+{
+	"artist": "Ammy Virk",
+	"songname": "Hath Chumme",
+	"producedby": "B Praak",
+	"album": "-"
+},
+{
+	"artist": "B Praak",
+	"songname": "Jannat",
+	"producedby": "Ammy Virk",
+	"album": "Sufna"
+},
+{
+	"artist": "Ammy Virk",
+	"songname": "Jaan Deyan Ge",
+	"producedby": "B Praak",
+	"album": "Sufna"
+},
+{
+	"artist": "B Praak",
+	"songname": "Channa Ve",
+	"producedby": "B Praak",
+	"album": "Sufna"
+},
+{
+	"artist": "Ammy Virk",
+	"songname": "Main Suneya",
+	"producedby": "Bhushan Kumar",
+	"album": "-"
+},
+{
+	"artist": "Gurnam Bhullar",
+	"songname": "Fakira",
+	"producedby": "Shubham Goyal",
+	"album": "-"
+},
+{
+	"artist": "Amon Amarth",
+	"songname": "Twilight of the Thunder God",
+	"producedby": "Jens Bogren",
+	"album": "Twilight of the Thunder God"
+},
+{
+	"artist": "Amon Amarth",
+	"songname": "Raise Your Horns",
+	"producedby": "Andy Sneap",
+	"album": "Jomsviking"
+},
+{
+	"artist": "Amon Amarth",
+	"songname": "Crack the Sky",
+	"producedby": "Jay Ruston",
+	"album": "Berserker"
+},
+{
+	"artist": "Amon Amarth",
+	"songname": "Guardians of Asgaard",
+	"producedby": "Jens Bogren",
+	"album": "Twilight of the Thunder God"
+},
+{
+	"artist": "Amon Amarth",
+	"songname": "First Kill",
+	"producedby": "Andy Sneap",
+	"album": "Jomsviking"
+},
+{
+	"artist": "Amon Amarth",
+	"songname": "The Way of Vikings",
+	"producedby": "Andy Sneap",
+	"album": "Jomsviking"
+},
+{
+	"artist": "Amon Amarth",
+	"songname": "Deceiver of the Gods",
+	"producedby": "Andy Sneap",
+	"album": "Deceiver of the Gods"
+},
+{
+	"artist": "Amon Amarth",
+	"songname": "The Berserker at Stamford Bridge",
+	"producedby": "Jay Ruston",
+	"album": "Berserker"
+},
+{
+	"artist": "Amon Amarth",
+	"songname": "Shield Wall",
+	"producedby": "Jay Ruston",
+	"album": "Berserker"
+},
+{
+	"artist": "Amorphis",
+	"songname": "The Bee",
+	"producedby": "Jens Bogren",
+	"album": "Queen of Time"
+},
+{
+	"artist": "Amorphis",
+	"songname": "Amongst Stars",
+	"producedby": "Jens Bogren",
+	"album": "Queen of Time"
+},
+{
+	"artist": "Amorphis",
+	"songname": "Wrong Direction",
+	"producedby": "Jens Bogren",
+	"album": "Queen of Time"
+},
+{
+	"artist": "Amorphis",
+	"songname": "Daughter of Hate",
+	"producedby": "Jens Bogren",
+	"album": "Queen of Time"
+},
+{
+	"artist": "Amorphis",
+	"songname": "House of Sleep",
+	"producedby": "Mikko Karmila",
+	"album": "Eclipse"
+},
+{
+	"artist": "Amorphis",
+	"songname": "The Golden Elk",
+	"producedby": "Jens Bogren",
+	"album": "Queen of Time"
+},
+{
+	"artist": "Amorphis",
+	"songname": "Message in the Amber",
+	"producedby": "Jens Bogren",
+	"album": "Queen of Time"
+},
+{
+	"artist": "Amorphis",
+	"songname": "Heart of the Giant",
+	"producedby": "Jens Bogren",
+	"album": "Queen of Time"
+},
+{
+	"artist": "Amos Lee",
+	"songname": "Sweet Pea",
+	"producedby": "Barrie Maguire",
+	"album": "Supply and Demand"
+},
+{
+	"artist": "Amos Lee",
+	"songname": "Arms of a Woman",
+	"producedby": "Lee Alexander",
+	"album": "Amos Lee"
+},
+{
+	"artist": "Amos Lee",
+	"songname": "Windows Are Rolled Down",
+	"producedby": "Joey Burns",
+	"album": "Mission Bell"
+},
+{
+	"artist": "Amos Lee",
+	"songname": "Colors",
+	"producedby": "Lee Alexander",
+	"album": "Amos Lee"
+},
+{
+	"artist": "Amr Diab",
+	"songname": "Noor Al Ain",
+	"producedby": "Hamid El Shaari",
+	"album": "Noor Al Ain"
+},
+{
+	"artist": "Amr Diab",
+	"songname": "We Maloh",
+	"producedby": "Tarek Madkour",
+	"album": "Kammel Kalamak"
+},
+{
+	"artist": "Amr Diab",
+	"songname": "El Alem Allah",
+	"producedby": "Tarek Madkour",
+	"album": "Tamally Maak"
+},
+{
+	"artist": "Amr Diab",
+	"songname": "Amarain",
+	"producedby": "Tarek Madkour",
+	"album": "Amarain"
+},
+{
+	"artist": "Amr Diab",
+	"songname": "Bayen Habeit",
+	"producedby": "Marshmello",
+	"album": "Kol Hayaty"
+},
+{
+	"artist": "Amr Diab",
+	"songname": "Ahe Ahe",
+	"producedby": "Adel Hakki",
+	"album": "-"
+},
+{
+	"artist": "Amr Diab",
+	"songname": "Lealy Nahary",
+	"producedby": "Nader Hamdy (WAMA)",
+	"album": "Lealy Nahary"
+},
+{
+	"artist": "Amr Diab",
+	"songname": "Da Law Etsab",
+	"producedby": "Osama El Hendy",
+	"album": "Kol Hayaty"
+},
+{
+	"artist": "Amr Diab",
+	"songname": "Enta Maghroor",
+	"producedby": "Nader Hamdy (WAMA)",
+	"album": "Kol Hayaty"
+},
+{
+	"artist": "Amrinder gill",
+	"songname": "Dildarian",
+	"producedby": "Sukshinder shinda",
+	"album": "Dildarian"
+},
+{
+	"artist": "Amrinder gill",
+	"songname": "Baddlan de Kaalje",
+	"producedby": "Dr Zeus",
+	"album": "Chal Mera Putt"
+},
+{
+	"artist": "Amrinder gill",
+	"songname": "Daana Paani",
+	"producedby": "Jaidev Kumar",
+	"album": "-"
+},
+{
+	"artist": "Amrinder gill",
+	"songname": "Mathi Mathi",
+	"producedby": "Dr Zeus",
+	"album": "Laiye Je Yaarian"
+},
+{
+	"artist": "Amrinder gill",
+	"songname": "Sohni Kuri",
+	"producedby": "Sukshinder shinda",
+	"album": "Dildarian"
+},
+{
+	"artist": "Amrinder gill",
+	"songname": "Aaban De Deson",
+	"producedby": "Dr Zeus",
+	"album": "Chal Mera Putt"
+},
+{
+	"artist": "Amrinder gill",
+	"songname": "Darshan Mehnge",
+	"producedby": "Intense",
+	"album": "Laiye Je Yaarian"
+},
+{
+	"artist": "Heja",
+	"songname": "Yemin Ederim",
+	"producedby": "Zafer Paydaş",
+	"album": "-"
+},
+{
+	"artist": "Ian",
+	"songname": "Double Up",
+	"producedby": "DJ Kronic Beats",
+	"album": "Voodoo"
+},
+{
+	"artist": "Ian",
+	"songname": "60 De Zile",
+	"producedby": "Canis Major",
+	"album": "-"
+},
+{
+	"artist": "PRNY",
+	"songname": "Rocco",
+	"producedby": "PRNY",
+	"album": "Geisha"
+},
+{
+	"artist": "Amuly",
+	"songname": "Euroi",
+	"producedby": "Haarp Beats",
+	"album": "-"
+},
+{
+	"artist": "Amuly",
+	"songname": "Phone Call",
+	"producedby": "andrei",
+	"album": "Blindat"
+},
+{
+	"artist": "Amy Grant",
+	"songname": "Baby Baby",
+	"producedby": "Keith Thomas",
+	"album": "Heart in Motion"
+},
+{
+	"artist": "Amy Grant",
+	"songname": "El-Shaddai",
+	"producedby": "Brown Bannister",
+	"album": "Age to Age"
+},
+{
+	"artist": "Amy Grant",
+	"songname": "River Lullaby",
+	"producedby": "Michael Omartian",
+	"album": "The Prince of Egypt (Original Motion Picture Soundtrack)"
+},
+{
+	"artist": "Kenny Loggins",
+	"songname": "Return to Pooh Corner",
+	"producedby": "Terry Nelson",
+	"album": "Return to Pooh Corner"
+},
+{
+	"artist": "Delirious",
+	"songname": "Find Me in the River",
+	"producedby": "Lynn Nichols",
+	"album": "Cutting Edge 3 & 4"
+},
+{
+	"artist": "Ryan Stevenson",
+	"songname": "Faithful",
+	"producedby": "Bryan Fowler",
+	"album": "No Matter What"
+},
+{
+	"artist": "Peter Cetera",
+	"songname": "The Next Time I Fall",
+	"producedby": "Michael Omartian",
+	"album": "Solitude/Solitaire"
+},
+{
+	"artist": "Amy Grant",
+	"songname": "Baby Baby",
+	"producedby": "Keith Thomas",
+	"album": "Heart in Motion"
+},
+{
+	"artist": "Amy MacDonald",
+	"songname": "This Is the Life",
+	"producedby": "Pete Wilkinson",
+	"album": "This Is the Life"
+},
+{
+	"artist": "Amy MacDonald",
+	"songname": "Down By The Water",
+	"producedby": "Cameron Blackwood",
+	"album": "Under Stars"
+},
+{
+	"artist": "Amy MacDonald",
+	"songname": "Dream On",
+	"producedby": "Ash Howes",
+	"album": "Under Stars"
+},
+{
+	"artist": "Amy MacDonald",
+	"songname": "Woman of the World",
+	"producedby": "Richard “Biff” Stannard",
+	"album": "Woman of the World (The Best of 2007 - 2018)"
+},
+{
+	"artist": "Amy MacDonald",
+	"songname": "Never Too Late",
+	"producedby": "Roy Kerr",
+	"album": "Under Stars"
+},
+{
+	"artist": "Amy MacDonald",
+	"songname": "From the Ashes",
+	"producedby": "Roy Kerr",
+	"album": "Under Stars"
+},
+{
+	"artist": "Amy MacDonald",
+	"songname": "Under Stars",
+	"producedby": "Roy Kerr",
+	"album": "Under Stars"
+},
+{
+	"artist": "Amy MacDonald",
+	"songname": "Poison Prince",
+	"producedby": "Pete Wilkinson",
+	"album": "This Is the Life"
+},
+{
+	"artist": "Amy Shark",
+	"songname": "Adore",
+	"producedby": "Cam Bluff",
+	"album": "Love Monster"
+},
+{
+	"artist": "Amy Shark",
+	"songname": "I Said Hi",
+	"producedby": "Dann Hume",
+	"album": "Love Monster"
+},
+{
+	"artist": "The Chainsmokers",
+	"songname": "The Reaper",
+	"producedby": "The Chainsmokers",
+	"album": "World War Joy"
+},
+{
+	"artist": "Amy Shark",
+	"songname": "Sink In",
+	"producedby": "Jack Antonoff",
+	"album": "Love, Simon (Original Motion Picture Soundtrack)"
+},
+{
+	"artist": "Amy Shark",
+	"songname": "Mess Her Up",
+	"producedby": "Dann Hume",
+	"album": "Love Monster"
+},
+{
+	"artist": "Amy Shark",
+	"songname": "Weekends",
+	"producedby": "Dann Hume",
+	"album": "Night Thinker"
+},
+{
+	"artist": "Amy Shark",
+	"songname": "All Loved Up",
+	"producedby": "Jack Antonoff",
+	"album": "Love Monster"
+},
+{
+	"artist": "Amy Shark",
+	"songname": "Drive You Mad",
+	"producedby": "Dann Hume",
+	"album": "Night Thinker"
+},
+{
+	"artist": "Amy Shark",
+	"songname": "Spits on Girls",
+	"producedby": "Eden Mulholland",
+	"album": "-"
+},
+{
+	"artist": "Amy Winehouse",
+	"songname": "Back to Black",
+	"producedby": "Mark Ronson",
+	"album": "Back to Black"
+},
+{
+	"artist": "Amy Winehouse",
+	"songname": "Rehab",
+	"producedby": "Mark Ronson",
+	"album": "Back to Black"
+},
+{
+	"artist": "Nas",
+	"songname": "Cherry Wine",
+	"producedby": "Salaam Remi",
+	"album": "Life Is Good"
+},
+{
+	"artist": "Amy Winehouse",
+	"songname": "Tears Dry on Their Own",
+	"producedby": "Salaam Remi",
+	"album": "Back to Black"
+},
+{
+	"artist": "Amy Winehouse",
+	"songname": "Love Is a Losing Game",
+	"producedby": "Mark Ronson",
+	"album": "Back to Black"
+},
+{
+	"artist": "Amy Winehouse",
+	"songname": "Wake Up Alone",
+	"producedby": "Mark Ronson",
+	"album": "Back to Black"
+},
+{
+	"artist": "Anaal Nathrakh",
+	"songname": "Hold Your Children Close and Pray for Oblivion",
+	"producedby": "Mick Kenney",
+	"album": "The Whole of the Law"
+},
+{
+	"artist": "Anaal Nathrakh",
+	"songname": "Obscene as Cancer",
+	"producedby": "Mick Kenney",
+	"album": "A New Kind of Horror"
+},
+{
+	"artist": "Anaal Nathrakh",
+	"songname": "We Will Fucking Kill You",
+	"producedby": "Mick Kenney",
+	"album": "The Whole of the Law"
+},
+{
+	"artist": "Anaal Nathrakh",
+	"songname": "Endarkenment",
+	"producedby": "Mick Kenney",
+	"album": "Endarkenment"
+},
+{
+	"artist": "Anaal Nathrakh",
+	"songname": "Depravity Favours the Bold",
+	"producedby": "Mick Kenney",
+	"album": "The Whole of the Law"
+},
+{
+	"artist": "Anaal Nathrakh",
+	"songname": "Forging Towards the Sunset",
+	"producedby": "Mick Kenney",
+	"album": "Vanitas"
+},
+{
+	"artist": "Anaal Nathrakh",
+	"songname": "On Being a Slave",
+	"producedby": "Mick Kenney",
+	"album": "The Whole of the Law"
+},
+{
+	"artist": "Ana Diaz",
+	"songname": "100",
+	"producedby": "Mona Khoshoi",
+	"album": "Tröst och vatten"
+},
+{
+	"artist": "Ana Diaz",
+	"songname": "Fyll upp mitt glas nu",
+	"producedby": "Elias Kapari",
+	"album": "Lyssna del 1"
+},
+{
+	"artist": "Ana Diaz",
+	"songname": "Magnolia",
+	"producedby": "Vinter",
+	"album": "Tröst och vatten"
+},
+{
+	"artist": "Ana Diaz",
+	"songname": "Det fina med tid",
+	"producedby": "Amr Badr",
+	"album": "Tröst och vatten"
+},
+{
+	"artist": "Anaju",
+	"songname": "Rota",
+	"producedby": "Anaju",
+	"album": "MOOD"
+},
+{
+	"artist": "Anaju",
+	"songname": "Ese o ese",
+	"producedby": "BRONQUIO",
+	"album": "MOOD"
+},
+{
+	"artist": "Anaju",
+	"songname": "Si Supieras",
+	"producedby": "BRONQUIO",
+	"album": "MOOD"
+},
+{
+	"artist": "Anaju",
+	"songname": "El Mensaje",
+	"producedby": "Vonzo",
+	"album": "MOOD"
+},
+{
+	"artist": "Anaju",
+	"songname": "Tan Lento",
+	"producedby": "Vonzo",
+	"album": "MOOD"
+},
+{
+	"artist": "Anamanaguchi",
+	"songname": "Miku",
+	"producedby": "Anamanaguchi",
+	"album": "Miku"
+},
+{
+	"artist": "Anamanaguchi",
+	"songname": "Prom Night",
+	"producedby": "Ashley Eskrett",
+	"album": "Endless Fantasy"
+},
+{
+	"artist": "Anamanaguchi",
+	"songname": "On My Own",
+	"producedby": "Peter Berkman",
+	"album": "[USA]"
+},
+{
+	"artist": "Anamanaguchi",
+	"songname": "Air On Line",
+	"producedby": "Porter Robinson",
+	"album": "[USA]"
+},
+{
+	"artist": "Anamanaguchi",
+	"songname": "Sunset By Plane",
+	"producedby": "Peter Berkman",
+	"album": "[USA]"
+},
+{
+	"artist": "Richa Sharma",
+	"songname": "Billo Rani",
+	"producedby": "Pritam",
+	"album": "Dhan Dhana Dhan Goal"
+},
+{
+	"artist": "Ajay-Atul",
+	"songname": "Shah Ka Rutba",
+	"producedby": "Ajay-Atul",
+	"album": "Agneepath"
+},
+{
+	"artist": "Krishna Beuraa",
+	"songname": "Mera Intkam Dekhegi",
+	"producedby": "Anand Raj Anand",
+	"album": "Shaadi Mein Zaroor Aana: The Movie (2017)"
+},
+{
+	"artist": "Zubeen",
+	"songname": "Socha Nahin Tha",
+	"producedby": "Anand Raj Anand",
+	"album": "Kaante"
+},
+{
+	"artist": "Sonu Nigam",
+	"songname": "Heer",
+	"producedby": "Anand Raj Anand",
+	"album": "Singh Saab The Great"
+},
+{
+	"artist": "Anarbor",
+	"songname": "18",
+	"producedby": "Matt Mahaffey",
+	"album": "Burnout (Deluxe Version)"
+},
+{
+	"artist": "Anarbor",
+	"songname": "Gypsy Woman",
+	"producedby": "Mike Green",
+	"album": "The Words You Don’t Swallow"
+},
+{
+	"artist": "Anarbor",
+	"songname": "Rock to My Roll",
+	"producedby": "Matt Mahaffey",
+	"album": "Burnout (Deluxe Version)"
+},
+{
+	"artist": "Anarbor",
+	"songname": "I Hate You So Much",
+	"producedby": "Matt Mahaffey",
+	"album": "Burnout (Deluxe Version)"
+},
+{
+	"artist": "Anarbor",
+	"songname": "Dopamine",
+	"producedby": "Matt Keller",
+	"album": "Anarbor"
+},
+{
+	"artist": "Hadestown Original Broadway Company",
+	"songname": "Way Down Hadestown",
+	"producedby": "Todd Sickafoose",
+	"album": "Hadestown (Original Broadway Cast Recording)"
+},
+{
+	"artist": "Hadestown Original Broadway Company",
+	"songname": "Chant",
+	"producedby": "Todd Sickafoose",
+	"album": "Hadestown (Original Broadway Cast Recording)"
+},
+{
+	"artist": "Eva Noblezada",
+	"songname": "Flowers",
+	"producedby": "Todd Sickafoose",
+	"album": "Hadestown (Original Broadway Cast Recording)"
+},
+{
+	"artist": "Anastacia",
+	"songname": "Left Outside Alone",
+	"producedby": "Glen Ballard",
+	"album": "Anastacia"
+},
+{
+	"artist": "Anastacia",
+	"songname": "Sick and Tired",
+	"producedby": "Dallas Austin",
+	"album": "Anastacia"
+},
+{
+	"artist": "Michael Jackson",
+	"songname": "What More Can I Give",
+	"producedby": "Michael Jackson",
+	"album": "Unreleased Songs"
+},
+{
+	"artist": "Anastacia",
+	"songname": "Paid My Dues",
+	"producedby": "Richie Jones",
+	"album": "Freak of Nature"
+},
+{
+	"artist": "Anastacia",
+	"songname": "One Day In Your Life",
+	"producedby": "Sam Watters",
+	"album": "Freak of Nature"
+},
+{
+	"artist": "Anastacia",
+	"songname": "Caught in the Middle",
+	"producedby": "Yei Gonzalez",
+	"album": "Evolution"
+},
+{
+	"artist": "Ben Moody",
+	"songname": "Everything Burns",
+	"producedby": "Ben Moody",
+	"album": "Mutiny Bootleg EP"
+},
+{
+	"artist": "The Original Broadway Cast of Anastasia",
+	"songname": "In My Dreams",
+	"producedby": "Hunter Arnold",
+	"album": "Anastasia (Original Broadway Cast Recording)"
+},
+{
+	"artist": "The Original Broadway Cast of Anastasia",
+	"songname": "A Rumor in Saint Petersburg",
+	"producedby": "Bill Taylor",
+	"album": "Anastasia (Original Broadway Cast Recording)"
+},
+{
+	"artist": "Anathema",
+	"songname": "One Last Goodbye",
+	"producedby": "Kit Woolven",
+	"album": "Judgment"
+},
+{
+	"artist": "Anathema",
+	"songname": "Endless Ways",
+	"producedby": "Tony Doogan",
+	"album": "The Optimist"
+},
+{
+	"artist": "Anathema",
+	"songname": "Springfield",
+	"producedby": "Tony Doogan",
+	"album": "The Optimist"
+},
+{
+	"artist": "Anathema",
+	"songname": "The Optimist",
+	"producedby": "Tony Doogan",
+	"album": "The Optimist"
+},
+{
+	"artist": "Anathema",
+	"songname": "Deep",
+	"producedby": "Kit Woolven",
+	"album": "Judgment"
+},
+{
+	"artist": "Anathema",
+	"songname": "A Simple Mistake",
+	"producedby": "Daniel Cavanagh",
+	"album": "We’re Here Because We’re Here"
+},
+{
+	"artist": "Sandy",
+	"songname": "Pra Me Refazer",
+	"producedby": "Anavitória",
+	"album": "Nós VOZ Eles"
+},
+{
+	"artist": "Anberlin",
+	"songname": "Feel Good Drag",
+	"producedby": "Neal Avron",
+	"album": "New Surrender"
+},
+{
+	"artist": "Anberlin",
+	"songname": "Never Take Friendship Personal",
+	"producedby": "Aaron Sprinkle",
+	"album": "Never Take Friendship Personal"
+},
+{
+	"artist": "Anberlin",
+	"songname": "A Day Late",
+	"producedby": "Aaron Sprinkle",
+	"album": "Never Take Friendship Personal"
+},
+{
+	"artist": "anders",
+	"songname": "Diamonds",
+	"producedby": "FrancisGotHeat",
+	"album": "669"
+},
+{
+	"artist": "anders",
+	"songname": "December",
+	"producedby": "anders",
+	"album": "669"
+},
+{
+	"artist": "anders",
+	"songname": "Bad Guy",
+	"producedby": "LUCA. (Producer)",
+	"album": "Twos"
+},
+{
+	"artist": "anders",
+	"songname": "With or Without",
+	"producedby": "LUCA. (Producer)",
+	"album": "669"
+},
+{
+	"artist": "anders",
+	"songname": "Problems",
+	"producedby": "FrancisGotHeat",
+	"album": "-"
+},
+{
+	"artist": "anders",
+	"songname": "The Days",
+	"producedby": "Chris Lay",
+	"album": "669"
+},
+{
+	"artist": "anders",
+	"songname": "You for You",
+	"producedby": "LUCA. (Producer)",
+	"album": "669"
+},
+{
+	"artist": "anders",
+	"songname": "Bad Habits",
+	"producedby": "S.L.M.N",
+	"album": "Chaos - EP"
+},
+{
+	"artist": "Phone-EG",
+	"songname": "6 Cypher",
+	"producedby": "Sunny Diamonds",
+	"album": "The G Is Silent"
+},
+{
+	"artist": "Anderson",
+	"songname": "Forever Young",
+	"producedby": "Beyond51",
+	"album": "Forever Young"
+},
+{
+	"artist": "Anderson",
+	"songname": "Ich kann nicht mehr",
+	"producedby": "Bidde ferlass uns",
+	"album": "-"
+},
+{
+	"artist": "Los Aldeanos",
+	"songname": "AO",
+	"producedby": "Real 70",
+	"album": "El atropello"
+},
+{
+	"artist": "Werna",
+	"songname": "Westside",
+	"producedby": "Anderson",
+	"album": "-"
+},
+{
+	"artist": "The Winans",
+	"songname": "The Question Is",
+	"producedby": "Bill Maxwell",
+	"album": "Introducing The Winans"
+},
 ]
 
 export default songInfo
